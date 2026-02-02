@@ -11,5 +11,3 @@ End-to-end churn modeling pipeline integrating gym membership data with external
 ## Tech Stack
 Python, SQL, BigQuery, BigQuery ML
 
-## Run
-Open in Google Colab, authenticate with GCP, run top-to-bottom.
