@@ -11,3 +11,5 @@ End-to-end churn modeling pipeline integrating gym membership data with external
 ## Tech Stack 
 Python, SQL, BigQuery, BigQuery ML
 
+## Key Takeaway
+The churn model demonstrates that incorporating external weather data provides a modest but measurable signal beyond core member attributes, with temperature and wind conditions contributing to churn risk in interpretable ways. The analysis highlights the importance of threshold selection and model interpretability when using churn predictions.
