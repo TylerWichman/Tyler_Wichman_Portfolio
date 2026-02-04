@@ -17,6 +17,4 @@ This repository contains a set of data analytics and machine learning projects f
 ## Tools
 Python, SQL, pandas, NumPy, scikit-learn, TensorFlow/Keras, BigQuery, BigQuery ML
 
-## About 
-Business Analytics student with a focus on applied modeling and real-world decision-making.
 
