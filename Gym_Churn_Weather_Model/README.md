@@ -8,6 +8,6 @@ End-to-end churn modeling pipeline integrating gym membership data with external
 - Logistic regression modeling using BigQuery ML
 - Emphasis on reliability, interpretability, and reproducibility
 
-## Tech Stack
+## Tech Stack 
 Python, SQL, BigQuery, BigQuery ML
 
