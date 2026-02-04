@@ -8,6 +8,6 @@ Interpretable classification model to identify high-performing sales representat
 - Probability threshold tuning to quantify precision/recall tradeoffs across business use cases
 
 
-## Tech Stack
+## Tech Stack 
 Python, pandas, NumPy, scikit-learn, matplotlib
 
