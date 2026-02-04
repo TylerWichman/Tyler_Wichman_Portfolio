@@ -11,5 +11,5 @@ Interpretable classification model to identify high-performing sales representat
 ## Tech Stack 
 Python, pandas, NumPy, scikit-learn, matplotlib
 
-## Key Takeaway
+## Key Takeaway 
 Threshold-tuned classification enables flexible identification of high-performing sales representatives, capturing over 90% of top performers at lower thresholds while allowing precision to increase for high-confidence targeting. The results emphasize how probability-based models support differentstrategies depending on business objectives.
