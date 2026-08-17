@@ -12,6 +12,7 @@ This repository contains a set of data analytics and machine learning projects f
 - **Pre-Departure Flight Delay Prediction (Neural Network):** Identifies flights likely to arrive 15+ minutes late using only pre-departure information.
 - **Sales Performance Classification:** Classifies high-performing sales representatives using interpretable models and threshold-based evaluation.
 - **Gym Member Churn Prediction with Weather Features:** Integrates external weather data into a churn modeling pipeline for a Gym.
+- **Fantasy Trade Calculator:** Trains gradient-boosting models to predict fantasy football dynasty/redraft market consensus value from player fundamentals, producing a unified trade-value board across three formats and two league sizes.
 
 
 ## Tools
