@@ -57,8 +57,8 @@ def format_value(v) -> str:
 # Sidebar -- format/team-size selection, shared across all 3 tabs
 # ---------------------------------------------------------------------------
 
-st.set_page_config(page_title="Fantasy Trade Calculator", layout="wide")
-st.title("Fantasy Trade Calculator")
+st.set_page_config(page_title="yougotfleeced.streamlit.app", layout="wide")
+st.title("yougotfleeced.streamlit.app")
 
 meta = load_metadata()
 if meta.get("generated_at"):
@@ -180,12 +180,7 @@ with tab2:
         view = view[view["position"] == pos_filter]
 
     if sort_by == "Residual (buy-low)":
-        before = len(view)
         view = view[~(view["college_seasons_found"] == 0)]
-        excluded = before - len(view)
-        if excluded:
-            st.caption(f"Excluding {excluded} zero-snap rookie(s) with no matched college-production "
-                       f"data -- their divergence isn't independent signal, it's a known modeling gap.")
         sort_col = "residual"
     else:
         sort_col = "model_value"
@@ -211,6 +206,7 @@ with tab3:
         candidate_leagues = []
         user_id = sleeper.resolve_username(sync_input)
         if user_id:
+            st.session_state["_sync_user_id"] = user_id  # store immediately -- every path needs this
             season = str(meta.get("season", 2026))
             candidate_leagues = sleeper.list_user_leagues(user_id, season)
             if not candidate_leagues:
@@ -219,8 +215,8 @@ with tab3:
                 league_id = candidate_leagues[0]["league_id"]
             else:
                 st.session_state["_candidate_leagues"] = candidate_leagues
-                st.session_state["_sync_user_id"] = user_id
         else:
+            st.session_state.pop("_sync_user_id", None)  # direct league-ID path -- no known user
             lg = sleeper.get_league(sync_input)
             if lg:
                 league_id = sync_input
@@ -270,8 +266,18 @@ with tab3:
                     "sleeper_ids_norm": sleeper_ids_norm,
                 })
 
-            my_user_id = st.session_state.get("_sync_user_id") or sleeper.resolve_username(sync_input)
-            my_roster = next((r for r in rosters if r["owner_id"] == my_user_id), rosters[0])
+            my_user_id = st.session_state.get("_sync_user_id")
+            my_roster = next((r for r in rosters if r["owner_id"] == my_user_id), None)
+
+            if my_roster is None:
+                st.warning("Couldn't automatically identify your roster (this happens when syncing "
+                           "by league ID instead of username). Pick your team below.")
+                team_choice = st.selectbox(
+                    "Which team is yours?",
+                    options=[r["roster_id"] for r in rosters],
+                    format_func=lambda rid: next(r["team_name"] for r in rosters if r["roster_id"] == rid),
+                )
+                my_roster = next(r for r in rosters if r["roster_id"] == team_choice)
 
             st.session_state["synced_league"] = {
                 "league_id": lid, "league_name": lg.get("name"), "snap_size": snap_size,
