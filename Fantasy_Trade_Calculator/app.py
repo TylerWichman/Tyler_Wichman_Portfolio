@@ -7,6 +7,8 @@ and only when a user actively syncs a league in Tab 3.
 import json
 from pathlib import Path
 
+import matplotlib.pyplot as plt
+import matplotlib.ticker as mticker
 import pandas as pd
 import streamlit as st
 
@@ -57,8 +59,8 @@ def format_value(v) -> str:
 # Sidebar -- format/team-size selection, shared across all 3 tabs
 # ---------------------------------------------------------------------------
 
-st.set_page_config(page_title="yougotfleeced.streamlit.app", layout="wide")
-st.title("yougotfleeced.streamlit.app")
+st.set_page_config(page_title="You Got Fleeced", layout="wide")
+st.title("You Got Fleeced")
 
 meta = load_metadata()
 if meta.get("generated_at"):
@@ -361,5 +363,32 @@ with tab3:
             st.markdown(f"**You are {int(my_row['rank'].iloc[0])} of {len(totals_df)}** "
                         f"({format_value(my_row['total_value'].iloc[0])} total value).")
 
-        chart_df = totals_df.set_index("team_name")[["total_value"]]
-        st.bar_chart(chart_df)
+        MY_COLOR = "#F18F01"
+        OTHER_COLOR = "#2E86AB"
+        plot_df = totals_df.iloc[::-1]  # highest value at top when plotted horizontally
+        colors = [MY_COLOR if rid == synced["my_roster_id"] else OTHER_COLOR for rid in plot_df["roster_id"]]
+
+        fig, ax = plt.subplots(figsize=(9, max(3, 0.5 * len(plot_df))))
+        bars = ax.barh(plot_df["team_name"], plot_df["total_value"], color=colors, height=0.65, zorder=3)
+
+        max_val = plot_df["total_value"].max()
+        for bar, val in zip(bars, plot_df["total_value"]):
+            ax.text(bar.get_width() + max_val * 0.015, bar.get_y() + bar.get_height() / 2,
+                    format_value(val), va="center", ha="left", fontsize=9, color="#333333")
+
+        ax.set_xlim(0, max_val * 1.18)
+        ax.set_xlabel("Total Roster Value", fontsize=10)
+        ax.set_title(f"{format_label} ({synced['snap_size']}-team) -- League Roster Value",
+                     fontsize=13, fontweight="bold", pad=14)
+        ax.xaxis.set_major_formatter(mticker.FuncFormatter(lambda x, _: format_value(x)))
+        ax.tick_params(axis="y", labelsize=10)
+        ax.tick_params(axis="x", labelsize=9)
+        ax.grid(axis="x", color="#dddddd", linewidth=0.7, zorder=0)
+        for spine in ("top", "right", "left"):
+            ax.spines[spine].set_visible(False)
+        ax.spines["bottom"].set_color("#cccccc")
+        fig.patch.set_facecolor("white")
+        ax.set_facecolor("white")
+        fig.tight_layout()
+        st.pyplot(fig)
+        st.caption(f"\U0001f7e0 {synced['my_team_name']} (you)   \U0001f535 rest of the league")
