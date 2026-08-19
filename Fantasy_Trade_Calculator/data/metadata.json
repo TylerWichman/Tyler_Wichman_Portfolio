@@ -1,0 +1,14 @@
+{
+  "generated_at": "2026-08-19T00:41:28.570076+00:00",
+  "season": 2026,
+  "formats": [
+    "sf_dynasty_10",
+    "sf_dynasty_12",
+    "oneqb_dynasty_10",
+    "oneqb_dynasty_12",
+    "redraft_10",
+    "redraft_12"
+  ],
+  "player_count": 376,
+  "pick_count": 27
+}

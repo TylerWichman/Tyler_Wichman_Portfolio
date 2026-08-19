@@ -1,0 +1,5 @@
+.venv/
+.env
+*.executed.ipynb
+snapshots/
+__pycache__/

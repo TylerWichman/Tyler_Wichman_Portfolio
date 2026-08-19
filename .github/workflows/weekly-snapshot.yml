@@ -1,0 +1,40 @@
+name: Weekly Trade Calculator Snapshot
+
+# Tuesday 13:00 UTC (~8-9am US Eastern depending on DST) -- after Monday Night
+# Football has finished and box scores/snap counts are settled, so the weekly
+# production pull reflects the full prior week. Also runnable on demand via
+# workflow_dispatch for manual refreshes/testing.
+on:
+  schedule:
+    - cron: "0 13 * * 2"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  generate-snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install pipeline dependencies
+        run: pip install -r Fantasy_Trade_Calculator/requirements-pipeline.txt
+
+      - name: Generate static snapshot
+        env:
+          CFBD_API_KEY: ${{ secrets.CFBD_API_KEY }}
+        run: python Fantasy_Trade_Calculator/generate_snapshot.py
+
+      - name: Commit updated snapshot if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add Fantasy_Trade_Calculator/data/*.json
+          git diff --quiet --staged || (git commit -m "Weekly trade calculator snapshot refresh" && git push)
