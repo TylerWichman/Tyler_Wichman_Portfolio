@@ -52,9 +52,6 @@ def main():
         url = f"https://football-data.co.uk/new/{code}.csv"
         download(url, DATA_DIR / f"extra_{code}.csv")
 
-    r = requests.get("https://www.football-data.co.uk/notes.txt", timeout=30)
-    (DATA_DIR / "notes.txt").write_text(r.text, encoding="utf-8")
-
 
 if __name__ == "__main__":
     main()

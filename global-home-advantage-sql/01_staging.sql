@@ -22,3 +22,7 @@ FROM read_csv(
     all_varchar = true,
     ignore_errors = true
 );
+
+SELECT 'stg_main' AS t, COUNT(*) FROM stg_main
+UNION ALL
+SELECT 'stg_extra', COUNT(*) FROM stg_extra;

@@ -1,0 +1,312 @@
+league_code,wiki_team,matched_raw_team,city,match_score
+SP1,Alavés,Alaves,Vitoria-Gasteiz,83.33333333333334
+SP1,Athletic Bilbao,Ath Bilbao,Bilbao,85.5
+SP1,Atlético Madrid,Ath Madrid,Madrid,85.5
+SP1,Barcelona,Barcelona,Barcelona,100.0
+SP1,Celta Vigo,Celta,Vigo,90.0
+SP1,Deportivo A Coruña,La Coruna,A Coruña,67.5
+SP1,Elche,Elche,Elche,100.0
+SP1,Espanyol,Espanol,Cornellà de Llobregat,93.33333333333333
+SP1,Getafe,Getafe,Getafe,100.0
+SP1,Levante,Levante,Valencia,100.0
+SP1,Málaga,Malaga,Málaga,83.33333333333334
+SP1,Osasuna,Osasuna,Pamplona,100.0
+SP1,Racing Santander,Santander,Santander,90.0
+SP1,Rayo Vallecano,Vallecano,Madrid,90.0
+SP1,Real Betis,Betis,Seville,90.0
+SP1,Real Madrid,Real Madrid,Madrid,100.0
+SP1,Real Sociedad,Sociedad,San Sebastián,90.0
+SP1,Sevilla,Sevilla,Seville,100.0
+SP1,Valencia,Valencia,Valencia,100.0
+SP1,Villarreal,Villarreal,Villarreal,100.0
+F1,Angers,Angers,Angers,100.0
+F1,Auxerre,Auxerre,Auxerre,100.0
+F1,Brest,Brest,Brest,100.0
+F1,Le Havre,Le Havre,Le Havre,100.0
+F1,Le Mans,Le Mans,Le Mans,100.0
+F1,Lens,Lens,Lens,100.0
+F1,Lille,Lille,Villeneuve-d'Ascq,100.0
+F1,Lorient,Lorient,Lorient,100.0
+F1,Lyon,Lyon,Décines-Charpieu,100.0
+F1,Marseille,Marseille,Marseille,100.0
+F1,Monaco,Monaco,Monaco,100.0
+F1,Nice,Nice,Nice,100.0
+F1,Paris FC,Paris FC,Paris,100.0
+F1,Paris Saint-Germain,Paris SG,Paris,85.5
+F1,Rennes,Rennes,Rennes,100.0
+F1,Strasbourg,Strasbourg,Strasbourg,100.0
+F1,Toulouse,Toulouse,Toulouse,100.0
+F1,Troyes,Troyes,Troyes,100.0
+B1,Anderlecht,Anderlecht,"Anderlecht, Brussels",100.0
+B1,Antwerp,Antwerp,Antwerp,100.0
+B1,Beveren,Beveren,Beveren,100.0
+B1,Cercle Brugge,Cercle Brugge,Bruges,100.0
+B1,Charleroi,Charleroi,Charleroi,100.0
+B1,Club Brugge,Club Brugge,Bruges,100.0
+B1,Genk,Genk,Genk,100.0
+B1,Gent,Gent,Ghent,100.0
+B1,Kortrijk,Kortrijk,Kortrijk,100.0
+B1,La Louvière,RAAL La Louviere,La Louvière,74.07407407407408
+B1,Lommel SK,Lommel SK,Lommel,100.0
+B1,Mechelen,Mechelen,Mechelen,100.0
+B1,OH Leuven,Oud-Heverlee Leuven,Leuven,85.5
+B1,Sint-Truiden,St Truiden,Sint-Truiden,81.81818181818181
+B1,Standard Liège,Standard,Liège,90.0
+B1,Union SG,Gent,"Forest, Brussels",42.75
+B1,Westerlo,Westerlo,Westerlo,100.0
+B1,Zulte Waregem,Waregem,Waregem,90.0
+P1,Académico de Viseu↑,Academico Viseu,Viseu,82.35294117647058
+P1,Alverca,Alverca,Alverca do Ribatejo,100.0
+P1,Arouca,Arouca,Arouca,100.0
+P1,Benfica,Benfica,Lisbon,100.0
+P1,Braga,Sp Braga,Braga,90.0
+P1,Casa Pia,Casa Pia,Lisbon,100.0
+P1,Estoril Praia,Estoril,Estoril,90.0
+P1,Estrela da Amadora,Estrela,Amadora,90.0
+P1,Famalicão,Famalicao,Vila Nova de Famalicão,88.88888888888889
+P1,Gil Vicente,Gil Vicente,Barcelos,100.0
+P1,Marítimo↑,Maritimo,Funchal,82.35294117647058
+P1,Moreirense,Moreirense,Guimarães,100.0
+P1,Nacional,Nacional,Funchal,100.0
+P1,Porto,Porto,Porto,100.0
+P1,Rio Ave,Rio Ave,Vila do Conde,100.0
+P1,Santa Clara,Santa Clara,Ponta Delgada,100.0
+P1,Sporting CP,Porto,Lisbon,54.0
+P1,Vitória de Guimarães,Guimaraes,Guimarães,80.0
+T1,Alanyaspor,Alanyaspor,Alanya,100.0
+T1,Amedspor,Amedspor,Diyarbakır,100.0
+T1,Başakşehir,Balikesirspor,Başakşehir,52.17391304347826
+T1,Beşiktaş,Besiktas,Beşiktaş,75.0
+T1,Çorum,Corum,Çorum,80.0
+T1,Erzurumspor,Erzurumspor,Erzurum,100.0
+T1,Eyüpspor,Eyupspor,Eyüpsultan,87.5
+T1,Fenerbahçe,Fenerbahce,Kadıköy,90.0
+T1,Galatasaray,Galatasaray,Sarıyer,100.0
+T1,Gaziantep,Gaziantep,Gaziantep,100.0
+T1,Gençlerbirliği,Genclerbirligi,Yenimahalle,85.71428571428572
+T1,Göztepe,Goztep,Göztepe,76.92307692307692
+T1,Kasımpaşa,Kasimpasa,Kasımpaşa,77.77777777777779
+T1,Kocaelispor,Kocaelispor,İzmit,100.0
+T1,Konyaspor,Konyaspor,Konya,100.0
+T1,Rizespor,Rizespor,Rize,100.0
+T1,Samsunspor,Samsunspor,Samsun,100.0
+T1,Trabzonspor,Trabzonspor,Trabzon,100.0
+G1,AEK Athens,AEK,Athens,90.0
+G1,A.E. Kifisia,Kifisia,Athens,90.0
+G1,Aris,Aris,Thessaloniki,100.0
+G1,Asteras Tripolis,Asteras Tripolis,Tripoli,100.0
+G1,Atromitos,Atromitos,Athens,100.0
+G1,Iraklis,Iraklis,Thessaloniki,100.0
+G1,Kalamata,Kalamata,Kalamata,100.0
+G1,Levadiakos,Levadeiakos,Livadeia,95.23809523809523
+G1,OFI,OFI,Heraklion,100.0
+G1,Olympiacos,Olympiakos,Piraeus,90.0
+G1,Panathinaikos,Panathinaikos,Athens,100.0
+G1,Panetolikos,Panetolikos,Agrinio,100.0
+G1,PAOK,PAOK,Thessaloniki,100.0
+G1,Volos,Niki Volos,Volos,90.0
+ARG,Aldosivi,Aldosivi,Mar del Plata,100.0
+ARG,Argentinos Juniors,Argentinos Jrs,Buenos Aires,87.5
+ARG,Atlético Tucumán,Atl. Tucuman,Tucumán,71.42857142857143
+ARG,Banfield,Banfield,Banfield,100.0
+ARG,Barracas Central,Barracas Central,Buenos Aires,100.0
+ARG,Belgrano,Belgrano,Córdoba,100.0
+ARG,Boca Juniors,Boca Juniors,Buenos Aires,100.0
+ARG,Central Córdoba,Central Cordoba,Santiago del Estero,93.33333333333333
+ARG,Central Córdoba,Central Cordoba,Santiago del Estero,93.33333333333333
+ARG,Defensa y Justicia,Defensa y Justicia,Florencio Varela,100.0
+ARG,Deportivo Riestra,Dep. Riestra,Buenos Aires,75.86206896551724
+ARG,Estudiantes,Estudiantes L.P.,La Plata,95.0
+ARG,Estudiantes,Estudiantes L.P.,Río Cuarto,95.0
+ARG,Gimnasia y Esgrima,Gimnasia L.P.,La Plata,72.38095238095238
+ARG,Gimnasia y Esgrima,Gimnasia L.P.,Mendoza,72.38095238095238
+ARG,Huracán,Huracan,Buenos Aires,85.71428571428572
+ARG,Independiente,Independiente,Avellaneda,100.0
+ARG,Independiente Rivadavia,Independiente,Mendoza,90.0
+ARG,Instituto,Instituto,Córdoba,100.0
+ARG,Lanús,Lanus,Lanús,80.0
+ARG,Newell's Old Boys,Newells Old Boys,Rosario,96.96969696969697
+ARG,Platense,Platense,Florida Este,100.0
+ARG,Racing,Racing Club,Avellaneda,90.0
+ARG,River Plate,River Plate,Buenos Aires,100.0
+ARG,Rosario Central,Rosario Central,Rosario,100.0
+ARG,San Lorenzo,San Lorenzo,Buenos Aires,100.0
+ARG,Sarmiento,Sarmiento Junin,Junín,90.0
+ARG,Talleres,Talleres Cordoba,Córdoba,90.0
+ARG,Tigre,Tigre,Victoria,100.0
+ARG,Unión,Union de Santa Fe,Santa Fe,72.0
+ARG,Vélez Sarsfield,Velez Sarsfield,Buenos Aires,93.33333333333333
+AUT,Austria Lustenau,A. Lustenau,Lustenau,80.0
+AUT,Austria Wien,Austria Vienna,Vienna,84.61538461538461
+AUT,Grazer AK,Grazer AK,Graz,100.0
+AUT,LASK,LASK,Linz,100.0
+AUT,SK Rapid,SK Rapid,Vienna,100.0
+AUT,Red Bull Salzburg,Salzburg,Wals-Siezenheim,90.0
+AUT,Rheindorf Altach,Altach,Altach,90.0
+AUT,SV Ried,Ried,Ried im Innkreis,90.0
+AUT,Sturm Graz,Sturm Graz,Graz,100.0
+AUT,TSV Hartberg,Hartberg,Hartberg,90.0
+AUT,Wolfsberger AC,Wolfsberger AC,Wolfsberg,100.0
+AUT,WSG Tirol,Tirol,Innsbruck,90.0
+BRA,Athletico Paranaense,Parana,Curitiba,90.0
+BRA,Atlético Mineiro,Cruzeiro,Belo Horizonte,60.00000000000001
+BRA,Bahia,Bahia,Salvador,100.0
+BRA,Botafogo,Botafogo RJ,Rio de Janeiro,95.0
+BRA,Chapecoense,Chapecoense-SC,Chapecó,88.0
+BRA,Corinthians,Corinthians,São Paulo,100.0
+BRA,Coritiba,Coritiba,Curitiba,100.0
+BRA,Cruzeiro,Cruzeiro,Belo Horizonte,100.0
+BRA,Flamengo,Flamengo RJ,Rio de Janeiro,95.0
+BRA,Fluminense,Fluminense,Rio de Janeiro,100.0
+BRA,Grêmio,Gremio,Porto Alegre,83.33333333333334
+BRA,Internacional,Internacional,Porto Alegre,100.0
+BRA,Mirassol,Mirassol,Mirassol,100.0
+BRA,Palmeiras,Palmeiras,São Paulo,100.0
+BRA,Red Bull Bragantino,Bragantino,Bragança Paulista,90.0
+BRA,Remo,Remo,Belém,100.0
+BRA,Santos,Santos,Santos,100.0
+BRA,São Paulo,Sao Paulo,São Paulo,88.88888888888889
+BRA,Vasco da Gama,Vasco,Rio de Janeiro,90.0
+BRA,Vitória,Vitoria,Salvador,85.71428571428572
+CHN,Shanghai Port,Shanghai Port,Shanghai,100.0
+CHN,Shanghai Shenhua,Shanghai Shenhua,Shanghai,100.0
+CHN,Chengdu Rongcheng,Chengdu Rongcheng,Chengdu,100.0
+CHN,Beijing Guoan,Beijing Guoan,Beijing,100.0
+CHN,Shandong Taishan,Shandong Taishan,Jinan,100.0
+CHN,Tianjin Jinmen Tiger,Tianjin Jinmen Tiger,Tianjin,100.0
+CHN,Tianjin Jinmen Tiger,Tianjin Jinmen Tiger,Tianjin,100.0
+CHN,Zhejiang,Zhejiang Greentown,Hangzhou,90.0
+CHN,Yunnan Yukun,Yunnan Yukun,Yuxi,100.0
+CHN,Qingdao West Coast,Qingdao West Coast,Qingdao,100.0
+CHN,Henan,Henan Songshan Longmen,Zhengzhou,90.0
+CHN,Dalian Yingbo,Dalian Yingbo,Dalian,100.0
+CHN,Shenzhen Peng City,Shenzhen,Shenzhen,90.0
+CHN,Wuhan Three Towns,Wuhan Three Towns,Wuhan,100.0
+CHN,Qingdao Hainiu,Qingdao Hainiu,Qingdao,100.0
+CHN,Liaoning Tieren P,Liaoning Tieren,Shenyang,95.0
+CHN,Chongqing Tonglianglong P,Chongqing Tonglianglong,Chongqing,95.83333333333334
+CHN,Chongqing Tonglianglong P,Chongqing Tonglianglong,Chongqing,95.83333333333334
+DNK,AGF,Fredericia,Aarhus,45.0
+DNK,Brøndby,Brondby,Brøndby,85.71428571428572
+DNK,Copenhagen,FC Copenhagen,Copenhagen,95.0
+DNK,Horsens,Horsens,Horsens,100.0
+DNK,Lyngby,Lyngby,Kongens Lyngby,100.0
+DNK,Midtjylland,Midtjylland,Herning,100.0
+DNK,Nordsjælland,Nordsjaelland,Farum,88.0
+DNK,OB,Odense,Odense,60.00000000000001
+DNK,Randers,Randers FC,Randers,95.0
+DNK,Silkeborg,Silkeborg,Silkeborg,100.0
+DNK,Sønderjyske,Sonderjyske,Haderslev,90.9090909090909
+DNK,Viborg,Viborg,Viborg,100.0
+FIN,AC Oulu,AC Oulu,Oulu,100.0
+FIN,FC Inter,Inter Turku,Turku,73.07692307692307
+FIN,FC Lahti,Lahti,Lahti,90.0
+FIN,FF Jaro,Jaro,Jakobstad,90.0
+FIN,HJK,HJK,"Töölö, Helsinki",100.0
+FIN,IF Gnistan,Gnistan,"Oulunkylä, Helsinki",95.0
+FIN,IFK Mariehamn,Mariehamn,Mariehamn,95.0
+FIN,Ilves,Ilves,Tampere,100.0
+FIN,KuPS,KuPS,Kuopio,100.0
+FIN,SJK,SJK,Seinäjoki,100.0
+FIN,TPS,TPS,Turku,100.0
+FIN,VPS,VPS,Vaasa,100.0
+MEX,América,Club America,Mexico City,77.14285714285715
+MEX,Atlante,Atlante,Mexico City,100.0
+MEX,Atlas,Atlas,"Guadalajara, Jalisco",100.0
+MEX,Atlético San Luis,Atl. San Luis,"San Luis Potosí, San Luis Potosí",80.0
+MEX,Cruz Azul,Cruz Azul,Mexico City,100.0
+MEX,Guadalajara,Guadalajara Chivas,"Zapopan, Jalisco",90.0
+MEX,Juárez,Juarez,"Ciudad Juárez, Chihuahua",83.33333333333334
+MEX,León,Club Leon,"León, Guanajuato",67.5
+MEX,Monterrey,Monterrey,"Guadalupe, Nuevo León",100.0
+MEX,Necaxa,Necaxa,"Aguascalientes, Aguascalientes",100.0
+MEX,Pachuca,Pachuca,"Pachuca, Hidalgo",100.0
+MEX,Puebla,Puebla,"Puebla, Puebla",100.0
+MEX,Pumas UNAM,UNAM Pumas,Mexico City,95.0
+MEX,Querétaro,Queretaro,"Querétaro, Querétaro",88.88888888888889
+MEX,Santos Laguna,Santos Laguna,"Torreón, Coahuila",100.0
+MEX,Tigres UANL,Tigres UANL,"San Nicolás de los Garza, Nuevo León",100.0
+MEX,Tijuana,Club Tijuana,"Tijuana, Baja California",90.0
+MEX,Toluca,Toluca,"Toluca, State of Mexico",100.0
+NOR,Aalesund,Aalesund,Ålesund,100.0
+NOR,Bodø/Glimt,Bodo/Glimt,Bodø,90.0
+NOR,Brann,Brann,Bergen,100.0
+NOR,Fredrikstad,Fredrikstad,Fredrikstad,100.0
+NOR,HamKam,HamKam,Hamar,100.0
+NOR,KFUM,KFUM Oslo,Oslo,90.0
+NOR,Kristiansund,Kristiansund,Kristiansund,100.0
+NOR,Lillestrøm,Lillestrom,Lillestrøm,90.0
+NOR,Molde,Molde,Molde,100.0
+NOR,Rosenborg,Rosenborg,Trondheim,100.0
+NOR,Sandefjord,Sandefjord,Sandefjord,100.0
+NOR,Sarpsborg,Sarpsborg 08,Sarpsborg,95.0
+NOR,Start,Start,Kristiansand,100.0
+NOR,Tromsø,Tromso,Tromsø,83.33333333333334
+NOR,Viking,Viking,Stavanger,100.0
+NOR,Vålerenga,Valerenga,Oslo,88.88888888888889
+POL,Cracovia,Cracovia,Kraków,100.0
+POL,GKS Katowice,GKS Katowice,Katowice,100.0
+POL,Górnik Zabrze,Gornik Zabrze,Zabrze,92.3076923076923
+POL,Jagiellonia Białystok,Jagiellonia,Białystok,90.0
+POL,Korona Kielce,Korona Kielce,Kielce,100.0
+POL,Lech Poznań,Lech Poznan,Poznań,90.9090909090909
+POL,Legia Warsaw,Legia,Warsaw,90.0
+POL,Motor Lublin,Motor Lublin,Lublin,100.0
+POL,Piast Gliwice,Piast Gliwice,Gliwice,100.0
+POL,Pogoń Szczecin,Pogon Szczecin,Szczecin,92.85714285714286
+POL,Radomiak Radom,Radomiak Radom,Radom,100.0
+POL,Raków Częstochowa,Rakow,Częstochowa,72.0
+POL,Śląsk Wrocław,Slask Wroclaw,Wrocław,76.92307692307692
+POL,Widzew Łódź,Widzew Lodz,Łódź,72.72727272727273
+POL,Wieczysta Kraków,Wieczysta Krakow,Kraków,93.75
+POL,Wisła Kraków,Wisla,Kraków,72.0
+POL,Wisła Płock,Wisla Plock,Płock,81.81818181818181
+POL,Zagłębie Lubin,Zaglebie,Lubin,67.5
+ROU,Argeș Pitești,FC Arges,Mioveni,61.07142857142858
+ROU,Botoșani,FC Botosani,Botoșani,73.6842105263158
+ROU,CFR Cluj,CFR Cluj,Cluj-Napoca,100.0
+ROU,Corvinul Hunedoara↑,Corvinul,Hunedoara,90.0
+ROU,Csíkszereda Miercurea Ciuc,Csikszereda M. Ciuc,Miercurea Ciuc,75.55555555555556
+ROU,Dinamo București,Dinamo Bucuresti,Bucharest,93.75
+ROU,Farul Constanța,Farul Constanta,Ovidiu,93.33333333333333
+ROU,FCSB,FCSB,Bucharest,100.0
+ROU,Oțelul Galați,Otelul,Galați,75.00000000000001
+ROU,Petrolul Ploiești,Petrolul,Ploiești,90.0
+ROU,Rapid București,FC Rapid Bucuresti,Bucharest,84.84848484848484
+ROU,Sepsi OSK↑,Sepsi Sf. Gheorghe,Sfântu Gheorghe,85.5
+ROU,Universitatea Cluj,CFR Cluj,Cluj-Napoca,85.5
+ROU,Universitatea Craiova,U Craiova,Craiova,85.5
+ROU,UTA Arad,UTA Arad,Arad,100.0
+ROU,Voluntari↑,FC Voluntari,Voluntari,81.81818181818181
+RUS,Akhmat,Akhmat Grozny,Grozny,90.0
+RUS,Akron,Akron Togliatti,Tolyatti,90.0
+RUS,Baltika,Baltika,Kaliningrad,100.0
+RUS,CSKA,CSKA Moscow,Moscow,90.0
+RUS,Dynamo Makhachkala,Dynamo Makhachkala,Makhachkala,100.0
+RUS,Dynamo Moscow,Dynamo Moscow,Moscow,100.0
+RUS,Fakel,Fakel Voronezh,Voronezh,90.0
+RUS,Krasnodar,Krasnodar,Krasnodar,100.0
+RUS,Krylia Sovetov,Krylya Sovetov,Samara,92.85714285714286
+RUS,Lokomotiv,Lokomotiv Moscow,Moscow,90.0
+RUS,Orenburg,Orenburg,Orenburg,100.0
+RUS,Rodina,Rodina Moscow,Moscow,90.0
+RUS,Rostov,FK Rostov,Rostov-on-Don,90.0
+RUS,Rubin,Rubin Kazan,Kazan,90.0
+RUS,Spartak,Spartak Nalchik,Moscow,90.0
+RUS,Zenit,Zenit,Saint Petersburg,100.0
+SWE,AIK,AIK,Solna,100.0
+SWE,BK Häcken,Hacken,Gothenburg,75.00000000000001
+SWE,Degerfors IF,Degerfors,Degerfors,95.0
+SWE,Djurgårdens IF,Djurgarden,Stockholm,75.0
+SWE,GAIS,GAIS,Gothenburg,100.0
+SWE,Halmstads BK,Halmstad,Halmstad,90.0
+SWE,Hammarby IF,Hammarby,Stockholm,95.0
+SWE,IF Brommapojkarna,Brommapojkarna,Stockholm,95.0
+SWE,IF Elfsborg,Elfsborg,Borås,95.0
+SWE,IFK Göteborg,Goteborg,Gothenburg,78.75
+SWE,IK Sirius,Sirius,Uppsala,90.0
+SWE,Kalmar FF,Kalmar,Kalmar,90.0
+SWE,Malmö FF,Malmo FF,Malmö,87.5
+SWE,Mjällby AIF,Mjallby,Hällevik,77.14285714285715
+SWE,Örgryte IS,Orgryte,Gothenburg,70.58823529411764
+SWE,Västerås SK,Vasteras SK,Västerås,81.81818181818181

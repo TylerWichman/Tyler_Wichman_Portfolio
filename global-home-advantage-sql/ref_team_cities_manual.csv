@@ -1,0 +1,215 @@
+league_code,team,city
+I1,Atalanta,Bergamo
+I1,Bologna,Bologna
+I1,Cagliari,Cagliari
+I1,Como,Como
+I1,Fiorentina,Florence
+I1,Frosinone,Frosinone
+I1,Genoa,Genoa
+I1,Juventus,Turin
+I1,Lazio,Rome
+I1,Lecce,Lecce
+I1,Monza,Monza
+I1,Napoli,Naples
+I1,Parma,Parma
+I1,Roma,Rome
+I1,Sassuolo,Reggio Emilia
+I1,Torino,Turin
+I1,Udinese,Udine
+I1,Venezia,Venice
+N1,Ajax,Amsterdam
+N1,Cambuur,Leeuwarden
+N1,Excelsior,Rotterdam
+N1,Feyenoord,Rotterdam
+N1,Go Ahead Eagles,Deventer
+N1,Groningen,Groningen
+N1,Heerenveen,Heerenveen
+N1,Sparta Rotterdam,Rotterdam
+N1,Telstar,Velsen
+N1,Twente,Enschede
+N1,Utrecht,Utrecht
+N1,Willem II,Tilburg
+SC0,Aberdeen,Aberdeen
+SC0,Celtic,Glasgow
+SC0,Dundee,Dundee
+SC0,Dundee United,Dundee
+SC0,Falkirk,Falkirk
+SC0,Hibernian,Edinburgh
+SC0,Kilmarnock,Kilmarnock
+SC0,Motherwell,Motherwell
+SC0,Rangers,Glasgow
+SC0,St Johnstone,Perth
+SC0,St Mirren,Paisley
+D1,Union Berlin,Berlin
+D1,Werder Bremen,Bremen
+D1,RB Leipzig,Leipzig
+D1,Bayern Munich,Munich
+D1,Schalke 04,Gelsenkirchen
+SC0,Aberdeen,Aberdeen
+SC0,Celtic,Glasgow
+SC0,Dundee,Dundee
+SC0,Dundee United,Dundee
+SC0,Falkirk,Falkirk
+SC0,Hibernian,Edinburgh
+SC0,Kilmarnock,Kilmarnock
+SC0,Motherwell,Motherwell
+SC0,Rangers,Glasgow
+SC0,St Johnstone,Perth
+SC0,St Mirren,Paisley
+D1,Union Berlin,Berlin
+D1,Werder Bremen,Bremen
+D1,RB Leipzig,Leipzig
+D1,Bayern Munich,Munich
+D1,Schalke 04,Gelsenkirchen
+E0,Arsenal,London
+E0,Aston Villa,Birmingham
+E0,Bournemouth,Bournemouth
+E0,Brentford,London
+E0,Brighton,Brighton and Hove
+E0,Chelsea,London
+E0,Coventry,Coventry
+E0,Crystal Palace,London
+E0,Everton,Liverpool
+E0,Fulham,London
+E0,Hull,Kingston upon Hull
+E0,Ipswich,Ipswich
+E0,Leeds,Leeds
+E0,Liverpool,Liverpool
+E0,Man City,Manchester
+E0,Man United,Manchester
+E0,Newcastle,Newcastle upon Tyne
+E0,Nott'm Forest,Nottingham
+E0,Sunderland,Sunderland
+E0,Tottenham,London
+IRL,Bohemians,Dublin
+IRL,Derry City,Derry
+IRL,Dundalk,Dundalk
+IRL,Shamrock Rovers,Dublin
+IRL,Shelbourne,Dublin
+IRL,Sligo Rovers,Sligo
+IRL,Waterford,Waterford
+JPN,Mito,Mito
+JPN,FC Tokyo,Tokyo
+JPN,Machida,Machida
+JPN,Kyoto,Kyoto
+JPN,Gamba Osaka,Osaka
+JPN,Cerezo Osaka,Osaka
+JPN,Okayama,Okayama
+SWZ,Basel,Basel
+SWZ,Grasshoppers,Zurich
+SWZ,Zurich,Zurich
+SWZ,Lausanne,Lausanne
+SWZ,Lugano,Lugano
+SWZ,Luzern,Lucerne
+SWZ,Servette,Geneva
+SWZ,Sion,Sion
+SWZ,St. Gallen,St. Gallen
+SWZ,Thun,Thun
+SWZ,Vaduz,Vaduz
+SWZ,Young Boys,Bern
+USA,CF Montreal,Montreal
+USA,Charlotte,Charlotte
+USA,Chicago Fire,Chicago
+USA,Colorado Rapids,Denver
+USA,Columbus Crew,Columbus
+USA,FC Cincinnati,Cincinnati
+USA,FC Dallas,Dallas
+USA,Houston Dynamo,Houston
+USA,Inter Miami,Miami
+USA,Los Angeles FC,Los Angeles
+USA,Minnesota United,Minneapolis
+USA,Nashville SC,Nashville
+USA,New England Revolution,Boston
+USA,New York Red Bulls,New York
+USA,Orlando City,Orlando
+USA,Philadelphia Union,Philadelphia
+USA,Portland Timbers,Portland
+USA,Real Salt Lake,Salt Lake City
+USA,San Diego FC,San Diego
+USA,San Jose Earthquakes,San Jose
+USA,Seattle Sounders,Seattle
+USA,Sporting Kansas City,Kansas City
+USA,St. Louis City,St. Louis
+USA,Toronto FC,Toronto
+USA,Vancouver Whitecaps,Vancouver
+IRL,Drogheda,Drogheda
+IRL,Galway,Galway
+IRL,St. Patricks,Dublin
+JPN,Kashima Antlers,Kashima
+JPN,Mito,Mito
+JPN,Urawa Reds,Saitama
+JPN,Chiba,Chiba
+JPN,Kashiwa Reysol,Kashiwa
+JPN,FC Tokyo,Tokyo
+JPN,Verdy,Tokyo
+JPN,Machida,Machida
+JPN,Kawasaki Frontale,Kawasaki
+JPN,Yokohama F. Marinos,Yokohama
+JPN,Shimizu S-Pulse,Shizuoka
+JPN,Nagoya Grampus,Nagoya
+JPN,Kyoto,Kyoto
+JPN,Gamba Osaka,Osaka
+JPN,Cerezo Osaka,Osaka
+JPN,Vissel Kobe,Kobe
+JPN,Okayama,Okayama
+JPN,Sanfrecce Hiroshima,Hiroshima
+JPN,Avispa Fukuoka,Fukuoka
+JPN,V-Varen Nagasaki,Nagasaki
+USA,Atlanta Utd,Atlanta
+USA,Austin FC,Austin
+USA,DC United,Washington
+USA,New York City,New York
+USA,Los Angeles Galaxy,Los Angeles
+D1,Augsburg,Augsburg
+D1,Dortmund,Dortmund
+D1,Elversberg,Spiesen-Elversberg
+D1,Ein Frankfurt,Frankfurt
+D1,Freiburg,Freiburg im Breisgau
+D1,Hamburg,Hamburg
+D1,Hoffenheim,Sinsheim
+D1,FC Koln,Cologne
+D1,Leverkusen,Leverkusen
+D1,Mainz,Mainz
+D1,M'gladbach,Monchengladbach
+D1,Paderborn,Paderborn
+D1,Stuttgart,Stuttgart
+I1,Inter,Milan
+I1,Milan,Milan
+N1,Den Haag,The Hague
+N1,AZ Alkmaar,Alkmaar
+N1,Nijmegen,Nijmegen
+N1,For Sittard,Sittard
+N1,PSV Eindhoven,Eindhoven
+N1,Zwolle,Zwolle
+SC0,Hearts,Edinburgh
+SP1,La Coruna,A Coruna
+B1,RAAL La Louviere,La Louviere
+T1,Besiktas,Besiktas
+T1,Goztep,Goztepe
+T1,Kasimpasa,Kasimpasa
+ARG,Atl. Tucuman,Tucuman
+ARG,Dep. Riestra,Buenos Aires
+ARG,Gimnasia L.P.,La Plata
+ARG,Union de Santa Fe,Santa Fe
+DNK,Odense,Odense
+FIN,Inter Turku,Turku
+MEX,Club America,Mexico City
+MEX,Club Leon,Leon
+POL,Rakow,Czestochowa
+POL,Slask Wroclaw,Wroclaw
+POL,Widzew Lodz,Lodz
+POL,Wisla,Krakow
+POL,Zaglebie,Lubin
+ROU,FC Botosani,Botosani
+ROU,Csikszereda M. Ciuc,Miercurea Ciuc
+ROU,Otelul,Galati
+SWE,Hacken,Gothenburg
+SWE,Djurgarden,Stockholm
+SWE,Goteborg,Gothenburg
+SWE,Mjallby,Hallevik
+SWE,Orgryte,Gothenburg
+B1,St. Gilloise,Brussels
+P1,Sp Lisbon,Lisbon
+T1,Buyuksehyr,Istanbul
+BRA,Atletico-MG,Belo Horizonte
+DNK,Aarhus,Aarhus
