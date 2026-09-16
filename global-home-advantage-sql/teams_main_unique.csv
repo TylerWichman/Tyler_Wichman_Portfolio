@@ -1,0 +1,462 @@
+league_code,team
+B1,Mechelen
+B1,Mouscron
+B1,Club Brugge
+B1,Harelbeke
+B1,Gent
+B1,Anderlecht
+B1,Antwerp
+B1,Charleroi
+B1,Lokeren
+B1,Germinal
+B1,Heusden Zolder
+B1,FC Brussels
+B1,Dender
+B1,Tubize
+B1,Kortrijk
+B1,Eupen
+B1,Oud-Heverlee Leuven
+B1,Waasland-Beveren
+B1,Mouscron-Peruwelz
+B1,Seraing
+B1,RWD Molenbeek
+D1,Bayern Munich
+D1,Hamburg
+D1,Kaiserslautern
+D1,Leverkusen
+D1,Werder Bremen
+D1,Schalke 04
+D1,Bochum
+D1,Wolfsburg
+D1,Hansa Rostock
+D1,M'gladbach
+D1,Bielefeld
+D1,Duisburg
+D1,Aachen
+D1,Karlsruhe
+D1,Augsburg
+D1,Fortuna Dusseldorf
+D1,Braunschweig
+D1,Paderborn
+D1,Ingolstadt
+D1,RB Leipzig
+D1,Union Berlin
+D1,Heidenheim
+D1,Holstein Kiel
+D1,Elversberg
+I1,Bari
+I1,Atalanta
+I1,Milan
+I1,Parma
+I1,Reggina
+I1,Roma
+I1,Juventus
+I1,Lecce
+I1,Vicenza
+I1,Torino
+I1,Como
+I1,Modena
+I1,Ancona
+I1,Sampdoria
+I1,Siena
+I1,Cagliari
+I1,Messina
+I1,Ascoli
+I1,Treviso
+I1,Genoa
+I1,Pescara
+I1,Frosinone
+I1,Carpi
+I1,Spal
+I1,Spezia
+I1,Salernitana
+T1,Kocaelispor
+T1,Genclerbirligi
+T1,Denizlispor
+T1,Siirt Jet-PA
+T1,Ankaragucu
+T1,Yozgatspor
+T1,Gaziantepspor
+T1,Trabzonspor
+T1,Adanaspor
+T1,Goztep
+T1,Diyarbakirspor
+T1,Elazigspor
+T1,Altay
+T1,A. Sebatspor
+T1,Kayserispor
+T1,Ankaraspor
+T1,Sivasspor
+T1,Sakaryaspor
+T1,Eskisehirspor
+T1,Bucaspor
+T1,Orduspor
+T1,Mersin Idman Yurdu
+T1,Akhisar Belediyespor
+T1,Balikesirspor
+T1,Karagumruk
+T1,Hatayspor
+T1,Ad. Demirspor
+T1,Bodrumspor
+T1,Eyupspor
+T1,Amedspor
+T1,Corum
+E0,Coventry
+E0,Derby
+E0,Leeds
+E0,Liverpool
+E0,Tottenham
+E0,Man United
+E0,Arsenal
+E0,Bradford
+E0,Southampton
+E0,West Ham
+E0,Aston Villa
+E0,Blackburn
+E0,Fulham
+E0,West Brom
+E0,Wolves
+E0,Crystal Palace
+E0,Wigan
+E0,Reading
+E0,Sheffield United
+E0,Hull
+E0,Stoke
+E0,Burnley
+E0,Blackpool
+E0,QPR
+E0,Cardiff
+E0,Bournemouth
+E0,Brighton
+E0,Luton
+F1,Marseille
+F1,Auxerre
+F1,Bordeaux
+F1,Guingamp
+F1,Lille
+F1,Lyon
+F1,Nantes
+F1,Toulouse
+F1,Sedan
+F1,Monaco
+F1,Bastia
+F1,Lens
+F1,Metz
+F1,Rennes
+F1,Nice
+F1,Nancy
+F1,Grenoble
+F1,Boulogne
+F1,Brest
+F1,Evian Thonon Gaillard
+F1,Ajaccio GFCO
+F1,Amiens
+F1,Nimes
+F1,Paris FC
+G1,Kallithea
+G1,Akratitos
+G1,Atromitos
+G1,Olympiakos
+G1,Egaleo
+G1,Ionikos
+G1,OFI
+G1,Iraklis
+G1,Kerkyra
+G1,Panserraikos
+G1,Thrasyvoulos
+G1,Kavala
+G1,Giannina
+G1,Platanias
+G1,Apollon
+G1,Kallonis
+G1,Kifisia
+G1,Kalamata
+N1,Sparta
+N1,Graafschap
+N1,Feyenoord
+N1,NAC Breda
+N1,Groningen
+N1,Roosendaal
+N1,Vitesse
+N1,AZ Alkmaar
+N1,Nijmegen
+N1,Twente
+N1,Waalwijk
+N1,Heerenveen
+N1,Roda JC
+N1,Zwolle
+N1,Heracles
+N1,Roda
+N1,Roda 
+N1,Ajax 
+N1,Go Ahead Eagles
+N1,Dordrecht
+N1,FC Emmen
+P1,Beira Mar
+P1,Aves
+P1,Salgueiros
+P1,Sp Lisbon
+P1,Leiria
+P1,Est Amadora
+P1,Guimaraes
+P1,Pacos Ferreira
+P1,Benfica
+P1,Farense
+P1,Maritimo
+P1,Setubal
+P1,Academica
+P1,Moreirense
+P1,Estoril
+P1,Penafiel
+P1,Trofense
+P1,Feirense 
+P1,Tondela
+P1,Famalicao
+P1,Vizela
+P1,Casa Pia
+P1,AVS
+P1,Academico Viseu
+SC0,St Mirren
+SC0,Aberdeen
+SC0,Dundee
+SC0,Kilmarnock
+SC0,Partick
+SC0,Falkirk
+SP1,La Coruna
+SP1,Real Madrid
+SP1,Numancia
+SP1,Malaga
+SP1,Valencia
+SP1,Espanol
+SP1,Oviedo
+SP1,Betis
+SP1,Murcia
+SP1,Getafe
+SP1,Cadiz
+SP1,Almeria
+SP1,Xerez
+SP1,Elche
+SP1,Cordoba
+SP1,Leganes
+SP1,Huesca
+E0,Charlton
+E0,Chelsea
+E0,Leicester
+E0,Sunderland
+E0,Ipswich
+E0,Middlesbrough
+E0,Everton
+E0,Man City
+E0,Newcastle
+E0,Bolton
+E0,Birmingham
+E0,Portsmouth
+E0,Norwich
+E0,Watford
+E0,Swansea
+E0,Huddersfield
+E0,Brentford
+E0,Nott'm Forest
+F1,Paris SG
+F1,St Etienne
+F1,Strasbourg
+F1,Troyes
+F1,Lorient
+F1,Montpellier
+F1,Sochaux
+F1,Ajaccio
+F1,Le Havre
+F1,Le Mans
+F1,Caen
+F1,Valenciennes
+F1,Arles
+F1,Dijon
+F1,Reims
+F1,Angers
+F1,Clermont
+G1,Xanthi
+G1,Kalamaria
+G1,Panathinaikos
+G1,Panionios
+G1,Levadeiakos
+G1,PAOK
+G1,AEK
+G1,Larisa
+G1,Ergotelis
+G1,Aris
+G1,Asteras Tripolis
+G1,Veria
+G1,Panthrakikos
+G1,Olympiakos Volou
+G1,Panetolikos
+G1,Doxa Dramas
+G1,Niki Volos
+G1,Lamia
+G1,OFI Crete
+G1,Volos NFC
+G1,Athens Kallithea
+N1,Utrecht
+N1,Ajax
+N1,For Sittard
+N1,Willem II
+N1,PSV Eindhoven
+N1,Den Bosch
+N1,Excelsior
+N1,Volendam
+N1,Den Haag
+N1,VVV Venlo
+N1,Heracles 
+N1,Feyenoord 
+N1,Graafschap 
+N1,Groningen 
+N1,Utrecht 
+N1,Vitesse 
+N1,Willem II 
+N1,Cambuur
+N1,Sparta Rotterdam
+N1,Almere City
+N1,Telstar
+P1,Porto
+P1,Sp Braga
+P1,Alverca
+P1,Gil Vicente
+P1,Campomaiorense
+P1,Belenenses
+P1,Boavista
+P1,Varzim
+P1,Santa Clara
+P1,Nacional
+P1,Rio Ave
+P1,Naval
+P1,Leixoes
+P1,Olhanense
+P1,Portimonense
+P1,Feirense
+P1,Arouca
+P1,Uniao Madeira
+P1,Chaves
+P1,Estrela
+SC0,Dunfermline
+SC0,Motherwell
+SC0,Rangers
+SC0,Dundee United
+SC0,Hearts
+SC0,Celtic
+SC0,Hibernian
+SC0,St Johnstone
+SC0,Livingston
+SC0,Inverness C
+SC0,Gretna
+SC0,Hamilton
+SC0,Ross County
+SP1,Barcelona
+SP1,Sociedad
+SP1,Zaragoza
+SP1,Las Palmas
+SP1,Mallorca
+SP1,Osasuna
+SP1,Villarreal
+SP1,Ath Bilbao
+SP1,Santander
+SP1,Valladolid
+SP1,Alaves
+SP1,Celta
+SP1,Vallecano
+SP1,Sevilla
+SP1,Tenerife
+SP1,Recreativo
+SP1,Ath Madrid
+SP1,Albacete
+SP1,Levante
+SP1,Gimnastic
+SP1,Sp Gijon
+SP1,Hercules
+SP1,Granada
+SP1,Eibar
+SP1,Girona
+B1,Beveren
+B1,Louvieroise
+B1,Westerlo
+B1,Aalst
+B1,St Truiden
+B1,Genk
+B1,Standard
+B1,Lierse
+B1,Lommel
+B1,Molenbeek
+B1,Bergen
+B1,Cercle Brugge
+B1,Oostende
+B1,Roeselare
+B1,Waregem
+B1,Beerschot VA
+B1,St. Gilloise
+B1,RAAL La Louviere
+B1,Lommel SK
+D1,Dortmund
+D1,Freiburg
+D1,Ein Frankfurt
+D1,Cottbus
+D1,Munich 1860
+D1,Hertha
+D1,Stuttgart
+D1,Unterhaching
+D1,FC Koln
+D1,St Pauli
+D1,Nurnberg
+D1,Hannover
+D1,Mainz
+D1,Hoffenheim
+D1,Greuther Furth
+D1,Darmstadt
+I1,Napoli
+I1,Perugia
+I1,Udinese
+I1,Inter
+I1,Lazio
+I1,Bologna
+I1,Brescia
+I1,Fiorentina
+I1,Verona
+I1,Chievo
+I1,Piacenza
+I1,Venezia
+I1,Empoli
+I1,Palermo
+I1,Livorno
+I1,Catania
+I1,Cesena
+I1,Novara
+I1,Sassuolo
+I1,Crotone
+I1,Benevento
+I1,Monza
+I1,Cremonese
+I1,Pisa
+T1,Besiktas
+T1,Bursaspor
+T1,Erzurumspor
+T1,Istanbulspor
+T1,Samsunspor
+T1,Antalyaspor
+T1,Galatasaray
+T1,Fenerbahce
+T1,Rizespor
+T1,Malatyaspor
+T1,Konyaspor
+T1,Erciyesspor
+T1,Manisaspor
+T1,Buyuksehyr
+T1,Oftasspor
+T1,Kasimpasa
+T1,Hacettepespor
+T1,Karabukspor
+T1,Osmanlispor
+T1,Alanyaspor
+T1,Yeni Malatyaspor
+T1,Erzurum BB
+T1,Gaziantep
+T1,Giresunspor
+T1,Umraniyespor
+T1,Pendikspor
+F1,Istres

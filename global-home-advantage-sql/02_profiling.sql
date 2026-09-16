@@ -1,0 +1,1 @@
+SUMMARIZE stg_main;

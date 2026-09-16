@@ -1,0 +1,508 @@
+league_code,team
+ARG,Racing Club
+ARG,Colon Santa FE
+ARG,Quilmes
+ARG,Godoy Cruz
+ARG,Lanus
+ARG,Belgrano
+ARG,Argentinos Jrs
+ARG,Union de Santa Fe
+ARG,Atl. Rafaela
+ARG,Gimnasia L.P.
+ARG,Olimpo Bahia Blanca
+ARG,Defensa y Justicia
+ARG,Nueva Chicago
+ARG,Temperley
+ARG,Patronato
+ARG,Talleres Cordoba
+ARG,Central Cordoba
+ARG,Ind. Rivadavia
+AUT,Mattersburg
+AUT,SK Rapid
+AUT,Admira
+AUT,Wolfsberger AC
+AUT,Austria Vienna
+AUT,Neustadt
+AUT,Salzburg
+AUT,Ried
+AUT,Grodig
+AUT,Altach
+AUT,St. Polten
+AUT,Hartberg
+AUT,A. Klagenfurt
+AUT,A. Lustenau
+AUT,BW Linz
+BRA,Figueirense
+BRA,Botafogo RJ
+BRA,Corinthians
+BRA,Internacional
+BRA,Bahia
+BRA,Cruzeiro
+BRA,Vasco
+BRA,Portuguesa
+BRA,Atletico-MG
+BRA,Santos
+BRA,Gremio
+BRA,Vitoria
+BRA,Criciuma
+BRA,Avai
+BRA,Joinville
+BRA,Santa Cruz
+BRA,Parana
+BRA,Ceara
+BRA,CSA
+BRA,Bragantino
+BRA,Cuiaba
+BRA,Juventude
+BRA,Mirassol
+IRL,Derry City
+IRL,Shelbourne
+IRL,Cork City
+IRL,Dundalk
+IRL,Shamrock Rovers
+IRL,Longford
+IRL,Athlone
+IRL,Galway
+IRL,Treaty United
+JPN,Sagan Tosu
+JPN,Hokkaido Consadole Sapporo
+JPN,Kawasaki Frontale
+JPN,Kashima Antlers
+JPN,Shimizu S-Pulse
+JPN,Iwata
+JPN,FC Tokyo
+JPN,Shonan Bellmare
+JPN,Yamaga
+JPN,Yokohama FC
+JPN,Kumamoto
+JPN,Okayama
+JPN,Verdy
+JPN,Mito
+JPN,Chiba
+MEX,Chiapas
+MEX,Cruz Azul
+MEX,Toluca
+MEX,Club America
+MEX,Pachuca
+MEX,Atl. San Luis
+MEX,Guadalajara Chivas
+MEX,Dorados de Sinaloa
+MEX,Necaxa
+MEX,Lobos BUAP
+MEX,Juarez
+NOR,Honefoss
+NOR,Odd
+NOR,Tromso
+NOR,Valerenga
+NOR,Brann
+NOR,Haugesund
+NOR,Sogndal
+NOR,Viking
+NOR,Ull/Kisa
+NOR,Ranheim
+NOR,Jerv
+NOR,Kristiansund
+NOR,Ham-Kam
+NOR,Kongsvinger
+NOR,KFUM Oslo
+POL,Pogon Szczecin
+POL,Piast Gliwice
+POL,Jagiellonia
+POL,Wisla
+POL,Legia
+POL,Lechia Gdansk
+POL,Zaglebie
+POL,Polonia Warszawa
+POL,GKS Belchatow
+POL,Ruch
+POL,Zawisza
+POL,Leczna
+POL,Termalica B-B.
+POL,Arka Gdynia
+POL,Warta Poznan
+POL,Stal Mielec
+POL,Gornik Zabrze
+POL,Ruch Chorzow
+POL,GKS Katowice
+POL,Wieczysta Krakow
+ROU,Petrolul
+ROU,CFR Cluj
+ROU,Bistrita
+ROU,Viitorul Constanta
+ROU,FCSB
+ROU,FC Brasov
+ROU,Din. Bucuresti
+ROU,FC Botosani
+ROU,U Craiova
+ROU,FC Voluntari
+ROU,Calarasi
+ROU,UTA Arad
+ROU,Univ. Craiova
+ROU,Farul Constanta
+ROU,U Craiova 1948
+ROU,Csikszereda M. Ciuc
+ROU,Dinamo Bucuresti
+ROU,Corvinul
+USA,Vancouver Whitecaps
+USA,DC United
+USA,FC Dallas
+USA,Chivas USA
+USA,Real Salt Lake
+USA,Philadelphia Union
+USA,Toronto FC
+USA,Columbus Crew
+USA,New England Revolution
+USA,Chicago Fire
+USA,Houston Dynamo
+USA,Orlando City
+USA,Atlanta Utd
+USA,Los Angeles FC
+USA,FC Cincinnati
+USA,Nashville SC
+USA,Austin FC
+USA,Charlotte
+USA,San Diego FC
+CHN,Shandong Luneng
+CHN,Guangzhou Evergrande
+CHN,Beijing Guoan
+CHN,Jiangsu Suning
+CHN,Tianjin Jinmen Tiger
+CHN,Dalian Yifang F.C.
+CHN,Shanghai Shenhua
+CHN,Guangzhou R&F
+CHN,Shanghai SIPG
+CHN,Henan Songshan Longmen
+CHN,Zhejiang Yiteng
+CHN,Hebei
+CHN,Wuhan FC
+CHN,Qingdao FC
+CHN,Shandong Taishan
+CHN,Cangzhou
+CHN,Shanghai Port
+CHN,Wuhan Three Towns
+CHN,Qingdao Hainiu
+CHN,Qingdao West Coast
+CHN,Shenzhen Xinpengcheng
+CHN,Yunnan Yukun
+CHN,Dalian Yingbo
+CHN,Liaoning Tieren
+DNK,Aarhus
+DNK,Esbjerg
+DNK,Brondby
+DNK,FC Copenhagen
+DNK,Horsens
+DNK,Aalborg
+DNK,Randers FC
+DNK,Nordsjaelland
+DNK,Hobro
+DNK,Lyngby
+DNK,Helsingor
+DNK,Hvidovre IF
+FIN,Honka
+FIN,Lahti
+FIN,TPS
+FIN,Mariehamn
+FIN,MyPa
+FIN,VPS
+FIN,Inter Turku
+FIN,Jaro
+FIN,SJK
+FIN,KTP
+FIN,HIFK
+FIN,PS Kemi
+FIN,AC Oulu
+FIN,Ekenas
+RUS,M. Saransk
+RUS,CSKA Moscow
+RUS,Volga N. Novgorod
+RUS,Zenit
+RUS,FK Anzi Makhackala
+RUS,Amkar
+RUS,Lokomotiv Moscow
+RUS,Akhmat Grozny
+RUS,Dynamo Moscow
+RUS,SKA Khabarovsk
+RUS,Spartak Nalchik
+RUS,Orenburg
+RUS,Yenisey
+RUS,Tambov
+RUS,Pari NN
+RUS,Khimki
+RUS,Torpedo Moscow
+RUS,Fakel Voronezh
+RUS,Rodina Moscow
+RUS,Akron Togliatti
+SWE,Elfsborg
+SWE,Sundsvall
+SWE,AIK
+SWE,Malmo FF
+SWE,Atvidabergs
+SWE,Gefle
+SWE,Mjallby
+SWE,Djurgarden
+SWE,Goteborg
+SWE,Kalmar
+SWE,Halmstad
+SWE,Osters
+SWE,Sirius
+SWE,Jonkopings
+SWE,Ostersunds
+SWE,Dalkurd
+SWE,Degerfors
+SWE,Oster
+SWE,Vasteras SK
+SWE,Landskrona
+SWE,Orgryte
+SWZ,Thun
+SWZ,Grasshoppers
+SWZ,Luzern
+SWZ,Sion
+SWZ,Aarau
+SWZ,Vaduz
+SWZ,Lugano
+SWZ,Xamax
+SWZ,Winterthur
+SWZ,Yverdon
+CHN,Hangzhou Greentown
+CHN,Liaoning
+CHN,Shanghai Shenxin
+CHN,Beijing Renhe
+CHN,Changchun Yatai
+CHN,Chongqing Liangjiang Athletic
+CHN,Shijiazhuang
+CHN,Yanbian
+CHN,Guizhou Zhicheng
+CHN,Tianjin Quanjian
+CHN,Shenzhen
+CHN,Tianjin Tianhai
+CHN,Dalian Pro
+CHN,Zhejiang Greentown
+CHN,Guangzhou FC
+CHN,Guangzhou City
+CHN,Chengdu Rongcheng
+CHN,Zhejiang Professional
+CHN,Meizhou Hakka
+CHN,Nantong Zhiyun
+CHN,Chongqing Tonglianglong
+DNK,Sonderjyske
+DNK,Silkeborg
+DNK,Midtjylland
+DNK,Odense
+DNK,Viborg
+DNK,Vestsjaelland
+DNK,Vendsyssel
+DNK,Vejle
+DNK,Fredericia
+FIN,HJK
+FIN,KuPS
+FIN,JJK Jyvaskyla
+FIN,Haka
+FIN,Rovaniemi
+FIN,Ilves
+FIN,PK-35 Vantaa
+FIN,KPV Kokkola
+FIN,Gnistan
+RUS,Vladikavkaz
+RUS,Krylya Sovetov
+RUS,Krasnodar
+RUS,Kuban
+RUS,Rubin Kazan
+RUS,Spartak Moscow
+RUS,FK Rostov
+RUS,Ural
+RUS,Tomsk
+RUS,Ufa
+RUS,T. Moscow
+RUS,Arsenal Tula
+RUS,Tosno
+RUS,Volgar-Astrakhan
+RUS,Sochi
+RUS,R. Volgograd
+RUS,Baltika
+RUS,Dynamo Makhachkala
+SWE,GAIS
+SWE,Syrianska
+SWE,Orebro
+SWE,Norrkoping
+SWE,Hacken
+SWE,Helsingborg
+SWE,Brommapojkarna
+SWE,Falkenbergs
+SWE,Ljungskile
+SWE,Hammarby
+SWE,AFC Eskilstuna
+SWE,Trelleborgs
+SWE,Brage
+SWE,Varberg
+SWE,Varnamo
+SWZ,Servette
+SWZ,St. Gallen
+SWZ,Basel
+SWZ,Lausanne
+SWZ,Young Boys
+SWZ,Zurich
+SWZ,Lausanne Ouchy
+ARG,Arsenal Sarandi
+ARG,Velez Sarsfield
+ARG,Newells Old Boys
+ARG,San Lorenzo
+ARG,River Plate
+ARG,Tigre
+ARG,San Martin S.J.
+ARG,Estudiantes L.P.
+ARG,All Boys
+ARG,Boca Juniors
+ARG,Independiente
+ARG,Rosario Central
+ARG,Banfield
+ARG,Crucero del Norte
+ARG,Sarmiento Junin
+ARG,Huracan
+ARG,Aldosivi
+ARG,Atl. Tucuman
+ARG,Chacarita Juniors
+ARG,San Martin T.
+ARG,Platense
+ARG,Barracas Central
+ARG,Colon Santa Fe
+ARG,Instituto
+ARG,Dep. Riestra
+ARG,Gimnasia Mendoza
+ARG,Estudiantes Rio Cuarto
+AUT,Sturm Graz
+AUT,Wacker Innsbruck
+AUT,LASK
+AUT,Tirol
+AUT,Grazer AK
+BRA,Palmeiras
+BRA,Sport Recife
+BRA,Ponte Preta
+BRA,Atletico GO
+BRA,Flamengo RJ
+BRA,Nautico
+BRA,Coritiba
+BRA,Sao Paulo
+BRA,Fluminense
+BRA,Athletico-PR
+BRA,Goias
+BRA,Chapecoense-SC
+BRA,America MG
+BRA,Fortaleza
+BRA,Remo
+IRL,Drogheda
+IRL,St. Patricks
+IRL,UC Dublin
+IRL,Monaghan
+IRL,Bohemians
+IRL,Bray
+IRL,Sligo Rovers
+IRL,Waterford
+IRL,Limerick
+IRL,Mervue
+IRL,Finn Harps
+IRL,Wexford
+IRL,Cobh Ramblers
+IRL,Cabinteely
+JPN,Gamba Osaka
+JPN,Sanfrecce Hiroshima
+JPN,Nagoya Grampus
+JPN,Vegalta Sendai
+JPN,Omiya Ardija
+JPN,Kashiwa Reysol
+JPN,Albirex Niigata
+JPN,Cerezo Osaka
+JPN,Urawa Reds
+JPN,Yokohama F. Marinos
+JPN,Vissel Kobe
+JPN,Oita Trinita
+JPN,Kofu
+JPN,Tokushima
+JPN,Montedio Yamagata
+JPN,Avispa Fukuoka
+JPN,V-Varen Nagasaki
+JPN,Kyoto
+JPN,Machida
+MEX,Club Tijuana
+MEX,Queretaro
+MEX,Monterrey
+MEX,Santos Laguna
+MEX,Atlas
+MEX,Atlante
+MEX,Monarcas
+MEX,Club Leon
+MEX,Tigres UANL
+MEX,Puebla
+MEX,UNAM Pumas
+MEX,Veracruz
+MEX,Leones Negros
+MEX,Mazatlan FC
+NOR,Molde
+NOR,Stabaek
+NOR,Rosenborg
+NOR,Sandnes
+NOR,Stromsgodset
+NOR,Fredrikstad
+NOR,Lillestrom
+NOR,Aalesund
+NOR,Start
+NOR,Sarpsborg 08
+NOR,Bodo/Glimt
+NOR,Mjondalen
+NOR,Sandefjord
+NOR,HamKam
+NOR,Moss
+NOR,Bryne
+POL,Widzew Lodz
+POL,Lech Poznan
+POL,Podbeskidzie
+POL,Slask Wroclaw
+POL,Korona Kielce
+POL,Gornik Z.
+POL,Cracovia
+POL,Wisla Plock
+POL,Sandecja Nowy S.
+POL,Legnica
+POL,Zaglebie Sosnowiec
+POL,LKS Lodz
+POL,Rakow
+POL,Radomiak Radom
+POL,Puszcza
+POL,Motor Lublin
+ROU,Pandurii
+ROU,CS Turnu Severin
+ROU,Poli Iasi
+ROU,FC Rapid Bucuresti
+ROU,Ceahlaul
+ROU,Gaz Metan Medias
+ROU,Astra
+ROU,Vaslui
+ROU,U. Cluj
+ROU,Concordia
+ROU,Otelul
+ROU,Poli Timisoara
+ROU,Navodari
+ROU,Corona Brasov
+ROU,Targu Mures
+ROU,Daco-Getica Bucuresti
+ROU,Sepsi Sf. Gheorghe
+ROU,Chindia Targoviste
+ROU,FC Hermannstadt
+ROU,Academica Clinceni
+ROU,Mioveni
+ROU,FC Arges
+ROU,Gloria Buzau
+ROU,Unirea Slobozia
+ROU,Metaloglobus Bucharest
+USA,Colorado Rapids
+USA,Los Angeles Galaxy
+USA,San Jose Earthquakes
+USA,Portland Timbers
+USA,CF Montreal
+USA,Sporting Kansas City
+USA,Seattle Sounders
+USA,New York Red Bulls
+USA,New York City
+USA,Minnesota United
+USA,Inter Miami
+USA,St. Louis City
+SWZ,Schaffhausen

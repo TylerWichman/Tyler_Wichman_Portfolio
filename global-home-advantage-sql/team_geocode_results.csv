@@ -1,0 +1,969 @@
+league_code,your_name,lat,lon,matched_display
+B1,Mechelen,51.0281381,4.4803453,"Mechelen, Antwerpen, Vlaanderen, België / Belgique / Belgien"
+B1,Mouscron,50.7436672,3.2142729,"Mouscron, Tournai-Mouscron, Hainaut, Wallonie, België / Belgique / Belgien"
+B1,Club Brugge,51.3269146,3.189557,"Club Brugge, Veerbootstraat, Stationswijk, Zeebrugge, Lissewege, Brugge, West-Vlaanderen, Vlaanderen, 8380, België / Belgique / Belgien"
+B1,Harelbeke,50.857512,3.3113699,"Harelbeke, Kortrijk, West-Vlaanderen, Vlaanderen, België / Belgique / Belgien"
+B1,Gent,51.045991,3.6876201,"Gent Rugby Football Club/ Ghent Lacrosse, 18, Strandlaan, Gent, Oost-Vlaanderen, Vlaanderen, 9000, België / Belgique / Belgien"
+B1,Anderlecht,50.8390983,4.3296526,"Anderlecht, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1070, België / Belgique / Belgien"
+B1,Antwerp,51.2211097,4.3997081,"Antwerpen, Vlaanderen, België / Belgique / Belgien"
+B1,Charleroi,50.509102,4.3598954,"Buvette club de Football Pont-à-Celles, Rue Notre-Dame des Grâces, Pont-à-Celles, Charleroi, Hainaut, Wallonie, 6230, België / Belgique / Belgien"
+B1,Lokeren,51.1483816,3.944247,"Lokeren, Sint-Niklaas, Oost-Vlaanderen, Vlaanderen, België / Belgique / Belgien"
+B1,Germinal,-21.0876869,-44.5778636,"Povoado do Germinal, Mercês de Água Limpa, São Tiago, Minas Gerais, Região Sudeste, Brasil"
+B1,Heusden Zolder,51.0327567,5.2797107,"Heusden-Zolder, Hasselt, Limburg, Vlaanderen, 3550, België / Belgique / Belgien"
+B1,FC Brussels,50.8467372,4.352493,"Bruxelles - Brussel, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, België / Belgique / Belgien"
+B1,Dender,50.8087006,3.9727646,"Dendre/Dender, Aalst, Oost-Vlaanderen, Vlaanderen, België / Belgique / Belgien"
+B1,Tubize,50.69302,4.204696,"Tubize, Nivelles, Brabant wallon, Wallonie, 1480, België / Belgique / Belgien"
+B1,Kortrijk,50.8276429,3.2659884,"Kortrijk, West-Vlaanderen, Vlaanderen, België / Belgique / Belgien"
+B1,Eupen,50.6305665,6.0312717,"Eupen, Verviers, Liège, Wallonie, België / Belgique / Belgien"
+B1,Oud-Heverlee Leuven,50.8376275,4.6629253,"Oud-Heverlee, Leuven, Vlaams-Brabant, Vlaanderen, België / Belgique / Belgien"
+B1,Waasland-Beveren,51.2121816,4.2595951,"HVZ Waasland - post Beveren, 5;5A, Gravendreef, Cortewallewijk, Beveren, Beveren-Kruibeke-Zwijndrecht, Sint-Niklaas, Oost-Vlaanderen, Vlaanderen, 9120, België / Belgique / Belgien"
+B1,Mouscron-Peruwelz,50.5333211,3.5636807,"Péruwelz, Tournai-Mouscron, Hainaut, Wallonie, België / Belgique / Belgien"
+B1,Seraing,50.6152381,5.5089437,"Seraing, Liège, Wallonie, 4100, België / Belgique / Belgien"
+B1,RWD Molenbeek,,,
+D1,Bayern Munich,48.1192337,11.4675221,"München Rugby Football Club, 11, Ludwig-Hunger-Straße, Blumenau, Hadern, München, Bayern, 81375, Deutschland"
+D1,Hamburg,53.5501721,10.0013165,"Hamburg, Deutschland"
+D1,Kaiserslautern,49.4432174,7.7689951,"Kaiserslautern, Rheinland-Pfalz, Deutschland"
+D1,Leverkusen,51.0324743,6.9881194,"Leverkusen, Nordrhein-Westfalen, Deutschland"
+D1,Werder Bremen,53.0578312,8.8524088,"Karl-Carstens-Brücke, Habenhauser Deichweg, Habenhausen, Obervieland, Bremen-Süd, Bremen, 28279, Deutschland"
+D1,Schalke 04,51.5228667,7.0874533,"Schalke, Gelsenkirchen-Mitte, Gelsenkirchen, Nordrhein-Westfalen, Deutschland"
+D1,Bochum,51.4818111,7.2196635,"Bochum, Nordrhein-Westfalen, Deutschland"
+D1,Wolfsburg,52.4205588,10.7861682,"Wolfsburg, Niedersachsen, Deutschland"
+D1,Hansa Rostock,54.1117333,12.0866089,"Nordland Hansa, Ortsbeirat 7 : Schmarl, Rostock, Mecklenburg-Vorpommern, 18069, Deutschland"
+D1,M'gladbach,51.1955828,6.4314361,"B&M Frisör, Alter Markt, Gladbach, Nord, Mönchengladbach, Nordrhein-Westfalen, 41061, Deutschland"
+D1,Bielefeld,52.0191005,8.531007,"Bielefeld, Nordrhein-Westfalen, Deutschland"
+D1,Duisburg,51.434999,6.759562,"Duisburg, Nordrhein-Westfalen, Deutschland"
+D1,Aachen,50.776351,6.083862,"Aachen, Städteregion Aachen, Nordrhein-Westfalen, Deutschland"
+D1,Karlsruhe,49.0068705,8.4034195,"Karlsruhe, Baden-Württemberg, Deutschland"
+D1,Augsburg,48.3690341,10.8979522,"Augsburg, Bayern, Deutschland"
+D1,Fortuna Dusseldorf,51.2268806,6.813393,"Fortunastraße, Grafental, Flingern Nord, Stadtbezirk 2, Düsseldorf, Nordrhein-Westfalen, 40235, Deutschland"
+D1,Braunschweig,52.2646577,10.5236066,"Braunschweig, Niedersachsen, Deutschland"
+D1,Paderborn,51.7177044,8.752653,"Paderborn, Kreis Paderborn, Nordrhein-Westfalen, Deutschland"
+D1,Ingolstadt,48.7630165,11.4250395,"Ingolstadt, Bayern, Deutschland"
+D1,RB Leipzig,51.3443163,12.3403113,"RasenBallsport Leipzig e. V., Cottaweg, Altlindenau, Altwest, Leipzig, Sachsen, 04177, Deutschland"
+D1,Union Berlin,40.8775124,-76.9866127,"New Berlin, Union County, Pennsylvania, 17855, United States"
+D1,Heidenheim,48.6767637,10.152923,"Heidenheim an der Brenz, VVG der Stadt Heidenheim an der Brenz, Landkreis Heidenheim, Baden-Württemberg, Deutschland"
+D1,Holstein Kiel,54.3227085,10.135555,"Kiel, Schleswig-Holstein, Deutschland"
+D1,Elversberg,49.31539,7.1268184,"Elversberg, Spiesen-Elversberg, Landkreis Neunkirchen, Saarland, 66583, Deutschland"
+I1,Bari,40.8188251,16.4272374,"ASD Football Club Gravina, Via Emilio Guida, Gravina in Puglia, Bari, Puglia, 70024, Italia"
+I1,Atalanta,-27.421916,-49.778863,"Atalanta, Santa Catarina, Região Sul, Brasil"
+I1,Milan,45.5027522,9.253237,"Football Club Enotria 1908, Via Carlo Cazzaniga, Parco Lambro - Cimiano, Municipio 3, Milano, Rodano, Milano, Lombardia, 20132, Italia"
+I1,Parma,29.1100812,79.5225267,"ACHIEVERS FOOTBALL CLUB, NH109, Bametabangar Keshavdatt, Lalkuan, Nainital, Uttarakhand, India"
+I1,Reggina,-34.602341,-58.4302665,"Reggina, 4602, Avenida Corrientes, Almagro, Buenos Aires, Comuna 5, Ciudad Autónoma de Buenos Aires, C1195AAF, Argentina"
+I1,Roma,45.4094973,10.9924054,"Borgo Primo Maggio Football Club, Via Comacchio, Borgo Roma, Sud, Palazzina, Verona, Veneto, 37134, Italia"
+I1,Juventus,45.1116457,7.6343744,"Juventus Football Club, 175, Via Druento, Continassa, Vallette, Circoscrizione 5, Torino, Piemonte, 10151, Italia"
+I1,Lecce,40.1522173,18.2260628,"Lecce, Puglia, Italia"
+I1,Vicenza,45.6348591,11.4063543,"Vicenza, Veneto, Italia"
+I1,Torino,45.1116457,7.6343744,"Juventus Football Club, 175, Via Druento, Continassa, Vallette, Circoscrizione 5, Torino, Piemonte, 10151, Italia"
+I1,Como,-34.0058109,151.0824939,"Georges River Junior Soccer Football Club, Como Road, Caravan Head, Oyster Bay, Sutherland Shire, Sydney, New South Wales, 2225, Australia"
+I1,Modena,44.5384728,10.9359609,"Modena, Emilia-Romagna, Italia"
+I1,Ancona,43.4801189,13.2187279,"Ancona, Marche, Italia"
+I1,Sampdoria,47.2163126,27.8062424,"Sampdoria S.R.L., Centru, Ungheni, Raionul Ungheni, Moldova"
+I1,Siena,43.1672059,11.467561,"Siena, Toscana, Italia"
+I1,Cagliari,39.2171994,9.113311,"Casteddu/Cagliari, Sardigna/Sardegna, Italia"
+I1,Messina,38.1937571,15.5542082,"Messina, Sicilia, Italia"
+I1,Ascoli,42.8834204,13.539593,"Ascoli Piceno, Marche, Italia"
+I1,Treviso,45.8066913,12.2063158,"Treviso, Veneto, Italia"
+I1,Genoa,44.4270052,8.8239614,"Genoa Cricket and Football Club S.p.A., 67, Via Ronchi, Cialli, Multedo, Ponente, Genova, Liguria, 16155, Italia"
+I1,Pescara,42.3097631,13.9579989,"Pescara, Abruzzo, Italia"
+I1,Frosinone,41.6285468,13.5758498,"Frosinone, Lazio, Italia"
+I1,Carpi,44.7835699,10.8854523,"Carpi, Unione delle Terre d'Argine, Modena, Emilia-Romagna, Italia"
+I1,Spal,39.5753601,-9.0015535,"SPAL, Valado dos Frades, Nazaré, Leiria, Portugal"
+I1,Spezia,45.0381342,7.6694941,"Spezia, Via Nizza, Molinette, Nizza Millefonti, Circoscrizione 8, Cavoretto, Torino, Piemonte, 10126, Italia"
+I1,Salernitana,52.3783911,4.8133248,"Salernitana, Van Moerkerkenstraat, Slotermeer, Nieuw-West, Amsterdam, Noord-Holland, Nederland, 1064 VH, Nederland"
+T1,Kocaelispor,40.7682319,30.0152556,"Kocaelispor, Bağımsızlık Caddesi, Stadyum, Alikahya Atatürk Mahallesi, Kocaeli, İzmit, Kocaeli, Marmara Bölgesi, 41310, Türkiye"
+T1,Genclerbirligi,39.9746817,32.815788,"Gençlerbirliği, 159 Caddesi, Kardeşler, Ayvalı Mahallesi, Keçiören, Ankara, İç Anadolu Bölgesi, 06010, Türkiye"
+T1,Denizlispor,37.8157177,29.0579691,"Denizlispor Haluk Ulusoy Tesisleri İç Yolu, Akçeşme Mahallesi, Merkezefendi, Denizli, Ege Bölgesi, 20085, Türkiye"
+T1,Siirt Jet-PA,,,
+T1,Ankaragucu,39.9815285,32.6132533,"Devlet Mahallesi/1910 Ankaragücü, Gençlerbirliği Sokağı, Devlet Mahallesi, Etimesgut, Ankara, İç Anadolu Bölgesi, 06824, Türkiye"
+T1,Yozgatspor,,,
+T1,Gaziantepspor,,,
+T1,Trabzonspor,40.895672,29.166289,"Trabzonspor, Turgut Özal Bulvarı, Kordonboyu Mahallesi, Kartal, İstanbul, Marmara Bölgesi, 34860, Türkiye"
+T1,Adanaspor,,,
+T1,Goztep,,,
+T1,Diyarbakirspor,,,
+T1,Elazigspor,,,
+T1,Altay,,,
+T1,A. Sebatspor,,,
+T1,Kayserispor,,,
+T1,Ankaraspor,,,
+T1,Sivasspor,,,
+T1,Sakaryaspor,,,
+T1,Eskisehirspor,,,
+T1,Bucaspor,,,
+T1,Orduspor,,,
+T1,Mersin Idman Yurdu,,,
+T1,Akhisar Belediyespor,,,
+T1,Balikesirspor,,,
+T1,Karagumruk,,,
+T1,Hatayspor,,,
+T1,Ad. Demirspor,,,
+T1,Bodrumspor,,,
+T1,Eyupspor,,,
+T1,Amedspor,,,
+T1,Corum,,,
+E0,Coventry,,,
+E0,Derby,,,
+E0,Leeds,,,
+E0,Liverpool,,,
+E0,Tottenham,,,
+E0,Man United,,,
+E0,Arsenal,,,
+E0,Bradford,,,
+E0,Southampton,,,
+E0,West Ham,,,
+E0,Aston Villa,,,
+E0,Blackburn,,,
+E0,Fulham,,,
+E0,West Brom,,,
+E0,Wolves,,,
+E0,Crystal Palace,,,
+E0,Wigan,,,
+E0,Reading,,,
+E0,Sheffield United,,,
+E0,Hull,,,
+E0,Stoke,,,
+E0,Burnley,,,
+E0,Blackpool,,,
+E0,QPR,,,
+E0,Cardiff,,,
+E0,Bournemouth,,,
+E0,Brighton,,,
+E0,Luton,,,
+F1,Marseille,,,
+F1,Auxerre,,,
+F1,Bordeaux,,,
+F1,Guingamp,,,
+F1,Lille,,,
+F1,Lyon,,,
+F1,Nantes,,,
+F1,Toulouse,,,
+F1,Sedan,,,
+F1,Monaco,,,
+F1,Bastia,,,
+F1,Lens,,,
+F1,Metz,,,
+F1,Rennes,,,
+F1,Nice,,,
+F1,Nancy,,,
+F1,Grenoble,,,
+F1,Boulogne,,,
+F1,Brest,,,
+F1,Evian Thonon Gaillard,,,
+F1,Ajaccio GFCO,,,
+F1,Amiens,,,
+F1,Nimes,,,
+F1,Paris FC,,,
+G1,Kallithea,,,
+G1,Akratitos,,,
+G1,Atromitos,,,
+G1,Olympiakos,,,
+G1,Egaleo,,,
+G1,Ionikos,,,
+G1,OFI,,,
+G1,Iraklis,,,
+G1,Kerkyra,,,
+G1,Panserraikos,,,
+G1,Thrasyvoulos,,,
+G1,Kavala,,,
+G1,Giannina,,,
+G1,Platanias,,,
+G1,Apollon,,,
+G1,Kallonis,,,
+G1,Kifisia,,,
+G1,Kalamata,,,
+N1,Sparta,,,
+N1,Graafschap,,,
+N1,Feyenoord,,,
+N1,NAC Breda,,,
+N1,Groningen,,,
+N1,Roosendaal,,,
+N1,Vitesse,,,
+N1,AZ Alkmaar,,,
+N1,Nijmegen,,,
+N1,Twente,,,
+N1,Waalwijk,,,
+N1,Heerenveen,,,
+N1,Roda JC,,,
+N1,Zwolle,,,
+N1,Heracles,,,
+N1,Roda,,,
+N1,Roda ,,,
+N1,Ajax ,,,
+N1,Go Ahead Eagles,,,
+N1,Dordrecht,,,
+N1,FC Emmen,,,
+P1,Beira Mar,,,
+P1,Aves,,,
+P1,Salgueiros,,,
+P1,Sp Lisbon,,,
+P1,Leiria,,,
+P1,Est Amadora,,,
+P1,Guimaraes,,,
+P1,Pacos Ferreira,,,
+P1,Benfica,,,
+P1,Farense,,,
+P1,Maritimo,,,
+P1,Setubal,,,
+P1,Academica,,,
+P1,Moreirense,,,
+P1,Estoril,,,
+P1,Penafiel,,,
+P1,Trofense,,,
+P1,Feirense ,,,
+P1,Tondela,,,
+P1,Famalicao,,,
+P1,Vizela,,,
+P1,Casa Pia,,,
+P1,AVS,,,
+P1,Academico Viseu,,,
+SC0,St Mirren,,,
+SC0,Aberdeen,,,
+SC0,Dundee,,,
+SC0,Kilmarnock,,,
+SC0,Partick,,,
+SC0,Falkirk,,,
+SP1,La Coruna,,,
+SP1,Real Madrid,,,
+SP1,Numancia,,,
+SP1,Malaga,,,
+SP1,Valencia,,,
+SP1,Espanol,,,
+SP1,Oviedo,,,
+SP1,Betis,,,
+SP1,Murcia,,,
+SP1,Getafe,,,
+SP1,Cadiz,,,
+SP1,Almeria,,,
+SP1,Xerez,,,
+SP1,Elche,,,
+SP1,Cordoba,,,
+SP1,Leganes,,,
+SP1,Huesca,,,
+E0,Charlton,,,
+E0,Chelsea,,,
+E0,Leicester,,,
+E0,Sunderland,,,
+E0,Ipswich,,,
+E0,Middlesbrough,,,
+E0,Everton,,,
+E0,Man City,,,
+E0,Newcastle,,,
+E0,Bolton,,,
+E0,Birmingham,,,
+E0,Portsmouth,,,
+E0,Norwich,,,
+E0,Watford,,,
+E0,Swansea,,,
+E0,Huddersfield,,,
+E0,Brentford,,,
+E0,Nott'm Forest,,,
+F1,Paris SG,,,
+F1,St Etienne,,,
+F1,Strasbourg,,,
+F1,Troyes,,,
+F1,Lorient,,,
+F1,Montpellier,,,
+F1,Sochaux,,,
+F1,Ajaccio,,,
+F1,Le Havre,,,
+F1,Le Mans,,,
+F1,Caen,,,
+F1,Valenciennes,,,
+F1,Arles,,,
+F1,Dijon,,,
+F1,Reims,,,
+F1,Angers,,,
+F1,Clermont,,,
+G1,Xanthi,,,
+G1,Kalamaria,,,
+G1,Panathinaikos,,,
+G1,Panionios,,,
+G1,Levadeiakos,,,
+G1,PAOK,,,
+G1,AEK,,,
+G1,Larisa,,,
+G1,Ergotelis,,,
+G1,Aris,,,
+G1,Asteras Tripolis,,,
+G1,Veria,,,
+G1,Panthrakikos,,,
+G1,Olympiakos Volou,,,
+G1,Panetolikos,,,
+G1,Doxa Dramas,,,
+G1,Niki Volos,,,
+G1,Lamia,,,
+G1,OFI Crete,,,
+G1,Volos NFC,,,
+G1,Athens Kallithea,,,
+N1,Utrecht,52.0907006,5.1215634,"Utrecht, Nederland"
+N1,Ajax,52.2775315,-1.6175924,"Central Ajax Football Club, Hampton Road, Budbrooke, Hampton Magna, Warwick, Warwickshire, England, CV35 8HA, United Kingdom"
+N1,For Sittard,,,
+N1,Willem II,52.2450361,8.9122783,"Willem II, Portastraße, Barkhausen, Porta Westfalica, Kreis Minden-Lübbecke, Nordrhein-Westfalen, 32457, Deutschland"
+N1,PSV Eindhoven,51.4393903,5.4778235,"PSV, 3, Marktstraat, Binnenstad, Centrum, Eindhoven, Noord-Brabant, Nederland, 5611 EA, Nederland"
+N1,Den Bosch,51.6889387,5.303116,"'s-Hertogenbosch, Noord-Brabant, Nederland"
+N1,Excelsior,44.9032963,-93.5663455,"Excelsior, Hennepin County, Minnesota, United States"
+N1,Volendam,52.4963759,5.0682736,"Volendam, Edam-Volendam, Noord-Holland, Nederland"
+N1,Den Haag,52.0799838,4.3113461,"Den Haag, Zuid-Holland, Nederland"
+N1,VVV Venlo,51.3688259,6.1698466,"VVV Venlo, 17, Klaasstraat, Venlo, Limburg, Nederland, 5911 JN, Nederland"
+N1,Heracles ,-11.9569279,-77.0820547,"Heracles, Los Olivos, Lima, Lima Metropolitana, Lima, 15113, Perú"
+N1,Feyenoord ,51.8941793,4.5246367,"Feyenoord, Van Zandvlietplein, Oud-IJsselmonde, IJsselmonde, Rotterdam, Zuid-Holland, Nederland, 3077 AA, Nederland"
+N1,Graafschap ,42.7541902,-86.1364296,"Graafschap, Fillmore Township, Allegan County, Michigan, 49423, United States"
+N1,Groningen ,53.2190652,6.5680077,"Groningen, Nederland"
+N1,Utrecht ,52.0907006,5.1215634,"Utrecht, Nederland"
+N1,Vitesse ,25.7875404,104.5516927,"茶亭隧道, 水兴高速, 盘州市, 六盘水市, 贵州省, 中国"
+N1,Willem II ,52.2450361,8.9122783,"Willem II, Portastraße, Barkhausen, Porta Westfalica, Kreis Minden-Lübbecke, Nordrhein-Westfalen, 32457, Deutschland"
+N1,Cambuur,53.2041094,5.8114482,"Cambuurstraat, Indische buurt, Oud Oost, Leeuwarden, Fryslân, Nederland, 8921 HR, Nederland"
+N1,Sparta Rotterdam,51.9194555,4.4335507,"Sparta Stadion, Kasteeltuin Spangen, Spangen, Delfshaven, Rotterdam, Zuid-Holland, Nederland, 3027 VZ, Nederland"
+N1,Almere City,52.3704954,5.2152939,"City, 63, Bottelaarpassage, Centrum, Almere Stad, Almere, Flevoland, Nederland, 1315 EP, Nederland"
+N1,Telstar,33.7006099,-117.7227974,"Telstar, Orange County Great Park, Irvine, Orange County, California, 92618, United States"
+P1,Porto,18.4536833,-66.0739483,"Puerto Rico Football Club PRFC, 1095, Avenida Román Baldorioty de Castro, Alto del Cabro, Santurce, San Juan, Puerto Rico, 00907, United States"
+P1,Sp Braga,-22.8949742,-47.0566649,"Braga, Rua Santa Cruz, Jardim Guanabara, Cambuí, Campinas, São Paulo, Região Sudeste, 13024-100, Brasil"
+P1,Alverca,38.8898093,-9.0339695,"Alverca, Estrada do Campo Internacional de Aterragem, Verdelha, Alverca do Ribatejo, Alverca do Ribatejo e Sobralinho, Vila Franca de Xira, Lisboa, 2615-205, Portugal"
+P1,Gil Vicente,38.6954657,-9.30036,"Gil Vicente, Figueirinha, Oeiras e São Julião da Barra, Paço de Arcos e Caxias, Oeiras, Lisboa, Portugal"
+P1,Campomaiorense,39.0144562,-7.0610653,"Clube de Saúde S. C. Campomaiorense, 2, Rua Francisco Marchã, São Pedro, Nossa Senhora da Expectação, Campo Maior, Portalegre, 7370-012, Portugal"
+P1,Belenenses,39.7277077,-8.929893,"Campo do Futebol Clube ""Os Belenenses"", Estrada dos Guilhermes, Zona Industrial Casal da Lebre, Marinha Grande, Leiria, 2430-307, Portugal"
+P1,Boavista,2.8208478,-60.6719582,"Boa Vista, Roraima, Região Norte, Brasil"
+P1,Varzim,41.3794188,-8.7598689,"Póvoa de Varzim, Porto, Portugal"
+P1,Santa Clara,37.2333253,-121.6846349,"Santa Clara County, California, United States"
+P1,Nacional,14.6807878,120.9387161,"Football Club De Malabon, Maria Leni Street, Gabriel Subdivision 2, Hulong Duhat, Malabon, Northern Manila District, Metro Manila, 1470, Philippines"
+P1,Rio Ave,41.4441904,-8.3629345,"Rio Ave, Portugal"
+P1,Naval,42.1947793,0.1518008,"Naval, Somontano de Barbastro, Huesca, Aragón, 22320, España"
+P1,Leixoes,41.1864507,-8.6961588,"Leixões, Matosinhos, Porto, 4450-262, Portugal"
+P1,Olhanense,37.030117,-7.8482243,"Urbanização Sporting Club Olhanense, Olhão, Faro, Portugal"
+P1,Portimonense,37.1366247,-8.540189,"Portimonense, Travessa Pé da Cruz, Praia da Rocha, Portimão, Faro, 8500-642, Portugal"
+P1,Feirense,40.9271044,-8.5466116,"Feirense, 14, Avenida Clube Desportivo Feirense, Santa Maria da Feira, Travanca, Sanfins e Espargo, Santa Maria da Feira, Aveiro, 4520-179, Portugal"
+P1,Arouca,40.9289214,-8.2441746,"Arouca, Aveiro, Portugal"
+P1,Uniao Madeira,32.8047917,-16.8786691,"União Desportiva de Santana, Rua Baltazar Dias, Sítio da Igreja, Chão da Rocha, Santana, Madeira, 9230-081, Portugal"
+P1,Chaves,-22.937319,-43.1852596,"Fluminense Football Club, 41, Rua Álvaro Chaves, Laranjeiras, Rio de Janeiro, Região Sudeste, 22231-220, Brasil"
+P1,Estrela,-29.5010545,-51.962226,"Estrela, Rio Grande do Sul, Região Sul, Brasil"
+SC0,Dunfermline,56.0713724,-3.4616183,"Dunfermline, Fife, Alba / Scotland, United Kingdom"
+SC0,Motherwell,55.7893512,-3.9904173,"Motherwell, North Lanarkshire, Alba / Scotland, ML1 1RB, United Kingdom"
+SC0,Rangers,51.8763987,-8.4527188,"Nemo Rangers Hurling & Football Club, Tramore C, Cork, County Cork, Munster, Éire / Ireland"
+SC0,Dundee United,56.4746993,-2.9690066,"Dundee United Football Club, Tannadice Street, Clepington, Stobswell, Dundee, Dundee City, Alba / Scotland, DD3 7JW, United Kingdom"
+SC0,Hearts,35.6865164,139.7418877,"HEARTS, 永井坂, 一番町, 麹町, 千代田区, 東京都, 102-0083, 日本"
+SC0,Celtic,55.7603836,-4.177497,"Celtic Football Club, Princes Square, Whitemoss, The Village, East Kilbride, South Lanarkshire, Alba / Scotland, G74 1LJ, United Kingdom"
+SC0,Hibernian,52.2451614,-7.1214947,"Hibernian Football Club, Tramore Road, Kilbarry, Waterford, County Waterford, Munster, Éire / Ireland"
+SC0,St Johnstone,55.8458333,-4.5136686,"St Benedict's High School, 35, Bridge of Weir Road, Linwood, Renfrewshire, Alba / Scotland, PA5 8EX, United Kingdom"
+SC0,Livingston,55.8733465,-3.510181,"Murieston United Community Football Club, Bankton Walk, Murieston, Livingston, West Lothian, Alba / Scotland, EH54 9LE, United Kingdom"
+SC0,Inverness C,46.2596772,-71.521879,"Inverness, L'Érable, Centre-du-Québec, Québec, Canada"
+SC0,Gretna,29.9146493,-90.0539604,"Gretna, Jefferson Parish, Louisiana, 70053, United States"
+SC0,Hamilton,-37.7843601,175.2679707,"Fraser Tech Rugby Football Club, Mill Street, Frankton CBD, Maeroa, Hamilton City, Waikato, 3204, New Zealand / Aotearoa"
+SC0,Ross County,52.3869516,-6.9426672,"Allianz Park, New Ross Rural ED, New Ross Municipal District, The Municipal District of New Ross, County Wexford, Leinster, Éire / Ireland"
+SP1,Barcelona,41.3825802,2.177073,"Barcelona, Barcelonès, Barcelona, Catalunya, España"
+SP1,Sociedad,13.698147,-88.0073508,"Sociedad, Morazán Sur, Morazán, El Salvador"
+SP1,Zaragoza,41.6915847,-0.9101268,"Zaragoza, Aragón, España"
+SP1,Las Palmas,28.1288694,-15.4349015,"Las Palmas de Gran Canaria, Las Palmas, Canarias, España"
+SP1,Mallorca,39.613432,2.8829185,"Mallorca, Illes Balears, España"
+SP1,Osasuna,-51.9559266,-69.8912325,"Osasuna, Güer Aike, Santa Cruz, Argentina"
+SP1,Villarreal,39.9372616,-0.1004465,"Vila-real, la Plana Baixa, Castelló / Castellón, Comunitat Valenciana, 12540, España"
+SP1,Ath Bilbao,,,
+SP1,Santander,43.4618932,-3.8100255,"Santander, Cantabria, España"
+SP1,Valladolid,41.6200024,-4.7259906,"Valladolid, Castilla y León, España"
+SP1,Alaves,42.3927003,-0.3732675,"Alavés, Sabiñánigo, Alto Gállego, Huesca, Aragón, España"
+SP1,Celta,-38.3644023,-60.2873002,"Celta, Tres Arroyos, Partido de Tres Arroyos, Buenos Aires, Argentina"
+SP1,Vallecano,40.3765566,-3.6142162,"Parque de juegos Rayo Vallecano, Ensanche de Vallecas, Villa de Vallecas, Madrid, Comunidad de Madrid, España"
+SP1,Sevilla,37.3886303,-5.9953403,"Sevilla, Andalucía, España"
+SP1,Tenerife,28.2935785,-16.6214471,"Tenerife, Canarias, España"
+SP1,Recreativo,-22.9036424,-43.2403288,"GRES Estação Primeira de Mangueira, 1072, Rua Visconde de Niterói, Mangueira, Rio de Janeiro, Região Sudeste, 20943-001, Brasil"
+SP1,Ath Madrid,,,
+SP1,Albacete,38.9950921,-1.8559154,"Albacete, Castilla-La Mancha, España"
+SP1,Levante,,,
+SP1,Gimnastic,,,
+SP1,Sp Gijon,,,
+SP1,Hercules,,,
+SP1,Granada,,,
+SP1,Eibar,,,
+SP1,Girona,,,
+B1,Beveren,,,
+B1,Louvieroise,,,
+B1,Westerlo,,,
+B1,Aalst,,,
+B1,St Truiden,,,
+B1,Genk,,,
+B1,Standard,,,
+B1,Lierse,,,
+B1,Lommel,,,
+B1,Molenbeek,,,
+B1,Bergen,,,
+B1,Cercle Brugge,,,
+B1,Oostende,,,
+B1,Roeselare,,,
+B1,Waregem,,,
+B1,Beerschot VA,,,
+B1,St. Gilloise,,,
+B1,RAAL La Louviere,,,
+B1,Lommel SK,,,
+D1,Dortmund,,,
+D1,Freiburg,,,
+D1,Ein Frankfurt,,,
+D1,Cottbus,,,
+D1,Munich 1860,,,
+D1,Hertha,,,
+D1,Stuttgart,,,
+D1,Unterhaching,,,
+D1,FC Koln,,,
+D1,St Pauli,,,
+D1,Nurnberg,,,
+D1,Hannover,,,
+D1,Mainz,,,
+D1,Hoffenheim,,,
+D1,Greuther Furth,,,
+D1,Darmstadt,,,
+I1,Napoli,,,
+I1,Perugia,,,
+I1,Udinese,,,
+I1,Inter,,,
+I1,Lazio,,,
+I1,Bologna,,,
+I1,Brescia,,,
+I1,Fiorentina,,,
+I1,Verona,,,
+I1,Chievo,,,
+I1,Piacenza,,,
+I1,Venezia,,,
+I1,Empoli,,,
+I1,Palermo,,,
+I1,Livorno,,,
+I1,Catania,,,
+I1,Cesena,,,
+I1,Novara,,,
+I1,Sassuolo,,,
+I1,Crotone,,,
+I1,Benevento,,,
+I1,Monza,,,
+I1,Cremonese,,,
+I1,Pisa,,,
+T1,Besiktas,,,
+T1,Bursaspor,,,
+T1,Erzurumspor,,,
+T1,Istanbulspor,,,
+T1,Samsunspor,,,
+T1,Antalyaspor,,,
+T1,Galatasaray,,,
+T1,Fenerbahce,,,
+T1,Rizespor,,,
+T1,Malatyaspor,,,
+T1,Konyaspor,,,
+T1,Erciyesspor,,,
+T1,Manisaspor,,,
+T1,Buyuksehyr,,,
+T1,Oftasspor,,,
+T1,Kasimpasa,,,
+T1,Hacettepespor,,,
+T1,Karabukspor,,,
+T1,Osmanlispor,,,
+T1,Alanyaspor,,,
+T1,Yeni Malatyaspor,,,
+T1,Erzurum BB,,,
+T1,Gaziantep,,,
+T1,Giresunspor,,,
+T1,Umraniyespor,,,
+T1,Pendikspor,,,
+F1,Istres,,,
+ARG,Racing Club,,,
+ARG,Colon Santa FE,,,
+ARG,Quilmes,,,
+ARG,Godoy Cruz,,,
+ARG,Lanus,,,
+ARG,Belgrano,,,
+ARG,Argentinos Jrs,,,
+ARG,Union de Santa Fe,,,
+ARG,Atl. Rafaela,,,
+ARG,Gimnasia L.P.,,,
+ARG,Olimpo Bahia Blanca,,,
+ARG,Defensa y Justicia,,,
+ARG,Nueva Chicago,,,
+ARG,Temperley,,,
+ARG,Patronato,,,
+ARG,Talleres Cordoba,,,
+ARG,Central Cordoba,,,
+ARG,Ind. Rivadavia,,,
+AUT,Mattersburg,,,
+AUT,SK Rapid,,,
+AUT,Admira,,,
+AUT,Wolfsberger AC,,,
+AUT,Austria Vienna,,,
+AUT,Neustadt,,,
+AUT,Salzburg,,,
+AUT,Ried,,,
+AUT,Grodig,,,
+AUT,Altach,,,
+AUT,St. Polten,,,
+AUT,Hartberg,,,
+AUT,A. Klagenfurt,,,
+AUT,A. Lustenau,,,
+AUT,BW Linz,,,
+BRA,Figueirense,,,
+BRA,Botafogo RJ,,,
+BRA,Corinthians,,,
+BRA,Internacional,,,
+BRA,Bahia,,,
+BRA,Cruzeiro,,,
+BRA,Vasco,,,
+BRA,Portuguesa,,,
+BRA,Atletico-MG,,,
+BRA,Santos,,,
+BRA,Gremio,,,
+BRA,Vitoria,,,
+BRA,Criciuma,,,
+BRA,Avai,,,
+BRA,Joinville,,,
+BRA,Santa Cruz,,,
+BRA,Parana,,,
+BRA,Ceara,,,
+BRA,CSA,,,
+BRA,Bragantino,,,
+BRA,Cuiaba,,,
+BRA,Juventude,,,
+BRA,Mirassol,,,
+IRL,Derry City,,,
+IRL,Shelbourne,,,
+IRL,Cork City,,,
+IRL,Dundalk,,,
+IRL,Shamrock Rovers,,,
+IRL,Longford,,,
+IRL,Athlone,,,
+IRL,Galway,,,
+IRL,Treaty United,,,
+JPN,Sagan Tosu,,,
+JPN,Hokkaido Consadole Sapporo,,,
+JPN,Kawasaki Frontale,,,
+JPN,Kashima Antlers,,,
+JPN,Shimizu S-Pulse,,,
+JPN,Iwata,,,
+JPN,FC Tokyo,,,
+JPN,Shonan Bellmare,,,
+JPN,Yamaga,,,
+JPN,Yokohama FC,,,
+JPN,Kumamoto,,,
+JPN,Okayama,,,
+JPN,Verdy,,,
+JPN,Mito,,,
+JPN,Chiba,,,
+MEX,Chiapas,,,
+MEX,Cruz Azul,,,
+MEX,Toluca,,,
+MEX,Club America,,,
+MEX,Pachuca,,,
+MEX,Atl. San Luis,,,
+MEX,Guadalajara Chivas,,,
+MEX,Dorados de Sinaloa,,,
+MEX,Necaxa,,,
+MEX,Lobos BUAP,,,
+MEX,Juarez,,,
+NOR,Honefoss,,,
+NOR,Odd,,,
+NOR,Tromso,,,
+NOR,Valerenga,,,
+NOR,Brann,,,
+NOR,Haugesund,,,
+NOR,Sogndal,,,
+NOR,Viking,,,
+NOR,Ull/Kisa,,,
+NOR,Ranheim,,,
+NOR,Jerv,,,
+NOR,Kristiansund,,,
+NOR,Ham-Kam,,,
+NOR,Kongsvinger,,,
+NOR,KFUM Oslo,,,
+POL,Pogon Szczecin,,,
+POL,Piast Gliwice,,,
+POL,Jagiellonia,,,
+POL,Wisla,,,
+POL,Legia,,,
+POL,Lechia Gdansk,,,
+POL,Zaglebie,,,
+POL,Polonia Warszawa,,,
+POL,GKS Belchatow,,,
+POL,Ruch,,,
+POL,Zawisza,,,
+POL,Leczna,,,
+POL,Termalica B-B.,,,
+POL,Arka Gdynia,,,
+POL,Warta Poznan,,,
+POL,Stal Mielec,,,
+POL,Gornik Zabrze,,,
+POL,Ruch Chorzow,50.2826802,18.9439044,"Ruch Chorzów, Drogowa Trasa Średnicowa, Osiedle Ruch, Klimzowiec, Centrum, Chorzów, Górnośląsko-Zagłębiowska Metropolia, województwo śląskie, 41-530, Polska"
+POL,GKS Katowice,50.2516421,18.9737842,"GKS Katowice, 1A, Nowa Bukowa, Johanka, Załęska Hałda, Załęska Hałda-Brynów, Katowice, Górnośląsko-Zagłębiowska Metropolia, województwo śląskie, 40-002, Polska"
+POL,Wieczysta Krakow,50.0736111,19.9819444,"Wieczysta, Rakowice, Prądnik Czerwony, Kraków, województwo małopolskie, Polska"
+ROU,Petrolul,44.9163857,26.0408943,"Petrolul, Ploiești, Prahova, 100680, România"
+ROU,CFR Cluj,46.779749,23.5777658,"Stadionul Dr. Constantin Rădulescu, Strada Gruia, Cetățuie, Gruia, Cluj-Napoca, Zona Metropolitană Cluj, Cluj, 400169, România"
+ROU,Bistrita,47.1327012,24.4963949,"Bistrița, Bistrița-Năsăud, 420048, România"
+ROU,Viitorul Constanta,44.2363462,28.5656547,"Stadionul Viitorul, DN3C, Ovidiu, Zona Metropolitană Constanța, Constanța, 905900, România"
+ROU,FCSB,44.3411304,26.1510174,"Baza Sportivă FCSB, 106, Drumul Leordeni, Sector 4, București, 042186, România"
+ROU,FC Brasov,45.5898919,25.4753815,"FC Râșnov, Strada Cetății, Râșnov, Zona Metropolitană Brașov, Brașov, 505400, România"
+ROU,Din. Bucuresti,44.4356445,26.1009263,"Universitatea din București, 4-12, Bulevardul Regina Elisabeta, Colțea, Centrul Istoric, Sector 3, București, 030018, România"
+ROU,FC Botosani,,,
+ROU,U Craiova,,,
+ROU,FC Voluntari,,,
+ROU,Calarasi,,,
+ROU,UTA Arad,,,
+ROU,Univ. Craiova,,,
+ROU,Farul Constanta,,,
+ROU,U Craiova 1948,,,
+ROU,Csikszereda M. Ciuc,,,
+ROU,Dinamo Bucuresti,,,
+ROU,Corvinul,,,
+USA,Vancouver Whitecaps,,,
+USA,DC United,,,
+USA,FC Dallas,,,
+USA,Chivas USA,,,
+USA,Real Salt Lake,,,
+USA,Philadelphia Union,,,
+USA,Toronto FC,,,
+USA,Columbus Crew,,,
+USA,New England Revolution,,,
+USA,Chicago Fire,,,
+USA,Houston Dynamo,,,
+USA,Orlando City,,,
+USA,Atlanta Utd,,,
+USA,Los Angeles FC,,,
+USA,FC Cincinnati,,,
+USA,Nashville SC,,,
+USA,Austin FC,,,
+USA,Charlotte,,,
+USA,San Diego FC,,,
+CHN,Shandong Luneng,,,
+CHN,Guangzhou Evergrande,,,
+CHN,Beijing Guoan,,,
+CHN,Jiangsu Suning,,,
+CHN,Tianjin Jinmen Tiger,,,
+CHN,Dalian Yifang F.C.,,,
+CHN,Shanghai Shenhua,,,
+CHN,Guangzhou R&F,,,
+CHN,Shanghai SIPG,,,
+CHN,Henan Songshan Longmen,,,
+CHN,Zhejiang Yiteng,,,
+CHN,Hebei,,,
+CHN,Wuhan FC,,,
+CHN,Qingdao FC,,,
+CHN,Shandong Taishan,,,
+CHN,Cangzhou,,,
+CHN,Shanghai Port,,,
+CHN,Wuhan Three Towns,,,
+CHN,Qingdao Hainiu,,,
+CHN,Qingdao West Coast,,,
+CHN,Shenzhen Xinpengcheng,,,
+CHN,Yunnan Yukun,,,
+CHN,Dalian Yingbo,,,
+CHN,Liaoning Tieren,,,
+DNK,Aarhus,,,
+DNK,Esbjerg,,,
+DNK,Brondby,,,
+DNK,FC Copenhagen,,,
+DNK,Horsens,,,
+DNK,Aalborg,,,
+DNK,Randers FC,,,
+DNK,Nordsjaelland,,,
+DNK,Hobro,,,
+DNK,Lyngby,,,
+DNK,Helsingor,,,
+DNK,Hvidovre IF,,,
+FIN,Honka,,,
+FIN,Lahti,,,
+FIN,TPS,,,
+FIN,Mariehamn,,,
+FIN,MyPa,,,
+FIN,VPS,,,
+FIN,Inter Turku,,,
+FIN,Jaro,,,
+FIN,SJK,,,
+FIN,KTP,,,
+FIN,HIFK,,,
+FIN,PS Kemi,,,
+FIN,AC Oulu,,,
+FIN,Ekenas,,,
+RUS,M. Saransk,,,
+RUS,CSKA Moscow,,,
+RUS,Volga N. Novgorod,,,
+RUS,Zenit,,,
+RUS,FK Anzi Makhackala,,,
+RUS,Amkar,,,
+RUS,Lokomotiv Moscow,,,
+RUS,Akhmat Grozny,,,
+RUS,Dynamo Moscow,,,
+RUS,SKA Khabarovsk,,,
+RUS,Spartak Nalchik,,,
+RUS,Orenburg,,,
+RUS,Yenisey,,,
+RUS,Tambov,,,
+RUS,Pari NN,,,
+RUS,Khimki,,,
+RUS,Torpedo Moscow,,,
+RUS,Fakel Voronezh,,,
+RUS,Rodina Moscow,,,
+RUS,Akron Togliatti,,,
+SWE,Elfsborg,,,
+SWE,Sundsvall,,,
+SWE,AIK,,,
+SWE,Malmo FF,,,
+SWE,Atvidabergs,,,
+SWE,Gefle,,,
+SWE,Mjallby,,,
+SWE,Djurgarden,,,
+SWE,Goteborg,,,
+SWE,Kalmar,,,
+SWE,Halmstad,,,
+SWE,Osters,,,
+SWE,Sirius,,,
+SWE,Jonkopings,,,
+SWE,Ostersunds,,,
+SWE,Dalkurd,,,
+SWE,Degerfors,,,
+SWE,Oster,,,
+SWE,Vasteras SK,,,
+SWE,Landskrona,,,
+SWE,Orgryte,,,
+SWZ,Thun,,,
+SWZ,Grasshoppers,,,
+SWZ,Luzern,,,
+SWZ,Sion,,,
+SWZ,Aarau,,,
+SWZ,Vaduz,,,
+SWZ,Lugano,,,
+SWZ,Xamax,,,
+SWZ,Winterthur,,,
+SWZ,Yverdon,,,
+CHN,Hangzhou Greentown,,,
+CHN,Liaoning,,,
+CHN,Shanghai Shenxin,,,
+CHN,Beijing Renhe,,,
+CHN,Changchun Yatai,,,
+CHN,Chongqing Liangjiang Athletic,,,
+CHN,Shijiazhuang,,,
+CHN,Yanbian,,,
+CHN,Guizhou Zhicheng,,,
+CHN,Tianjin Quanjian,,,
+CHN,Shenzhen,,,
+CHN,Tianjin Tianhai,,,
+CHN,Dalian Pro,,,
+CHN,Zhejiang Greentown,,,
+CHN,Guangzhou FC,,,
+CHN,Guangzhou City,,,
+CHN,Chengdu Rongcheng,,,
+CHN,Zhejiang Professional,,,
+CHN,Meizhou Hakka,,,
+CHN,Nantong Zhiyun,,,
+CHN,Chongqing Tonglianglong,,,
+DNK,Sonderjyske,,,
+DNK,Silkeborg,,,
+DNK,Midtjylland,,,
+DNK,Odense,,,
+DNK,Viborg,,,
+DNK,Vestsjaelland,,,
+DNK,Vendsyssel,,,
+DNK,Vejle,,,
+DNK,Fredericia,,,
+FIN,HJK,,,
+FIN,KuPS,,,
+FIN,JJK Jyvaskyla,,,
+FIN,Haka,,,
+FIN,Rovaniemi,,,
+FIN,Ilves,,,
+FIN,PK-35 Vantaa,,,
+FIN,KPV Kokkola,,,
+FIN,Gnistan,,,
+RUS,Vladikavkaz,,,
+RUS,Krylya Sovetov,,,
+RUS,Krasnodar,,,
+RUS,Kuban,,,
+RUS,Rubin Kazan,,,
+RUS,Spartak Moscow,,,
+RUS,FK Rostov,,,
+RUS,Ural,,,
+RUS,Tomsk,,,
+RUS,Ufa,,,
+RUS,T. Moscow,,,
+RUS,Arsenal Tula,,,
+RUS,Tosno,,,
+RUS,Volgar-Astrakhan,,,
+RUS,Sochi,,,
+RUS,R. Volgograd,,,
+RUS,Baltika,,,
+RUS,Dynamo Makhachkala,,,
+SWE,GAIS,,,
+SWE,Syrianska,,,
+SWE,Orebro,,,
+SWE,Norrkoping,,,
+SWE,Hacken,,,
+SWE,Helsingborg,,,
+SWE,Brommapojkarna,,,
+SWE,Falkenbergs,,,
+SWE,Ljungskile,,,
+SWE,Hammarby,,,
+SWE,AFC Eskilstuna,,,
+SWE,Trelleborgs,,,
+SWE,Brage,,,
+SWE,Varberg,,,
+SWE,Varnamo,,,
+SWZ,Servette,,,
+SWZ,St. Gallen,,,
+SWZ,Basel,,,
+SWZ,Lausanne,,,
+SWZ,Young Boys,,,
+SWZ,Zurich,,,
+SWZ,Lausanne Ouchy,,,
+ARG,Arsenal Sarandi,,,
+ARG,Velez Sarsfield,,,
+ARG,Newells Old Boys,,,
+ARG,San Lorenzo,,,
+ARG,River Plate,,,
+ARG,Tigre,,,
+ARG,San Martin S.J.,,,
+ARG,Estudiantes L.P.,,,
+ARG,All Boys,-34.6160924,-58.4989142,"All Boys, Álvarez Jonte, Monte Castro, Buenos Aires, Comuna 10, Ciudad Autónoma de Buenos Aires, C1407GPO, Argentina"
+ARG,Boca Juniors,-34.7401551,-56.455876,"Boca Juniors, Villa Olímpica, Playa Pascual, San Luis, Ciudad del Plata, San José, 80101, Uruguay"
+ARG,Independiente,-5.6816069,144.2489081,Papua Niugini
+ARG,Rosario Central,-41.7425977,-73.1276808,"Rosario Central, Calbuco, Provincia de Llanquihue, Región de Los Lagos, Chile"
+ARG,Banfield,-34.7437455,-58.3960811,"Banfield, Partido de Lomas de Zamora, Buenos Aires, 1828, Argentina"
+ARG,Crucero del Norte,-27.3969337,-55.9071051,"Crucero del Norte, Avenida Comandante Andresito, Chacra 32, Cristo Rey, Posadas, Municipio de Posadas, Departamento Capital, Misiones, N3300MPO, Argentina"
+ARG,Sarmiento Junin,-34.5865763,-60.9413637,"Sarmiento, El Picaflor, Junín, Partido de Junín, Buenos Aires, 6000, Argentina"
+ARG,Huracan,-33.3816595,-61.7136449,"Huracán Football Club, Francisco Candioti, Municipio de Los Quirquinchos, Departamento Caseros, Santa Fe, S2637, Argentina"
+ARG,Aldosivi,-38.0520315,-57.5469425,"Predio Abandonado (Ex Club Aldosivi), Puerto, Mar del Plata, Partido de General Pueyrredón, Buenos Aires, Argentina"
+ARG,Atl. Tucuman,,,
+ARG,Chacarita Juniors,-34.5808506,-58.4521106,"Club Atlético Chacarita Juniors, 3550, Teodoro García, Villa Crespo, Buenos Aires, Distrito Audiovisual, Comuna 15, Ciudad Autónoma de Buenos Aires, C1427CCG, Argentina"
+ARG,San Martin T.,-21.788076,-63.7364797,"San Martin, Municipio Caraparí, Gran Chaco, Tarija, Bolivia"
+ARG,Platense,-34.540584,-58.4808628,"Platense, Juan Zufriategui, Florida, Buenos Aires, Partido de Vicente López, Buenos Aires, C1429AKK, Argentina"
+ARG,Barracas Central,-34.6475867,-58.3967688,"Barracas Central, Luna, Barrrio Estación Buenos Aires, Barracas, Buenos Aires, Comuna 4, Ciudad Autónoma de Buenos Aires, 1284, Argentina"
+ARG,Colon Santa Fe,-33.1565099,-60.5029691,"Colon, Arroyo Seco, Municipio de Arroyo Seco, Gran Rosario, Departamento Rosario, Santa Fe, 2128DKB, Argentina"
+ARG,Instituto,38.3767821,-0.4192169,"Instituto, Avinguda d'Oviedo, la Platja de Sant Joan, Alacant / Alicante, l'Alacantí, Alacant / Alicante, Comunitat Valenciana, 03540, España"
+ARG,Dep. Riestra,-12.0685839,-77.0685064,"Valle Riestra, Pueblo Libre, Lima, Lima Metropolitana, Lima, 15084, Perú"
+ARG,Gimnasia Mendoza,-32.8842186,-68.864062,"Club Gimnasia y Esgrima, Lencinas, 30 de Octubre, Distrito El Plumerillo, Departamento Las Heras, Mendoza, M5539HSQ, Argentina"
+ARG,Estudiantes Rio Cuarto,-33.1153837,-64.3484733,"Asociacion Atletica Estudiantes, Coronel Pedro H. Zanni, Santa Teodora, Río Cuarto, Municipio de Río Cuarto, Pedanía Río Cuarto, Departamento Río Cuarto, Córdoba, X5800, Argentina"
+AUT,Sturm Graz,47.0323243,15.4474421,"Neues Trainings- und Nachwuchszentrum Sturm Graz, Katastralgemeinde Rudersdorf, Puntigam, Graz, Steiermark, Österreich"
+AUT,Wacker Innsbruck,47.2559894,11.4122979,"FC Wacker Innsbruck, 1a, Stadionstraße, Tivoli, Pradl, Innsbruck, Tirol, 6020, Österreich"
+AUT,LASK,48.7,21.85,"Laškovce, okres Michalovce, Košický kraj, Slovensko"
+AUT,Tirol,47.223193,11.5261028,"Tirol, Österreich"
+AUT,Grazer AK,47.1088265,15.4006621,"GAK 1902, 6, Weinzödl, Sankt Gotthard, Katastralgemeinde Graz Stadt-St. Veit ob Graz, Andritz, Graz, Steiermark, 8046, Österreich"
+BRA,Palmeiras,-12.5151234,-41.5746054,"Palmeiras, Bahia, Região Nordeste, Brasil"
+BRA,Sport Recife,-8.0620291,-34.9039235,"Sport Club do Recife, Ilha do Retiro, Recife, Pernambuco, Região Nordeste, Brasil"
+BRA,Ponte Preta,-27.6577598,-52.4895431,"Ponte Preta, Rio Grande do Sul, Região Sul, 99735-000, Brasil"
+BRA,Atletico GO,-16.6406098,-49.2763909,"Centro de Treinamentos e Sede Administrativa do Atlético Goianiense, Qd. 01, Lt. 20, Rua Vitória Régia, Setor Urias Magalhães, Goiânia, Goiás, Região Centro-Oeste, 74565-100, Brasil"
+BRA,Flamengo RJ,-22.9339841,-43.1745744,"Flamengo, Rio de Janeiro, Região Sudeste, Brasil"
+BRA,Nautico,-51.6073302,-69.2439172,"Nautico, Río Gallegos, Municipio de Río Gallegos, Güer Aike, Santa Cruz, Argentina"
+BRA,Coritiba,-16.7345622,-49.2823416,"Rua Coritiba, Parque Amazonia, Goiânia, Goiás, Região Centro-Oeste, 74843-120, Brasil"
+BRA,Sao Paulo,-23.5506507,-46.6333824,"São Paulo, Região Sudeste, Brasil"
+BRA,Fluminense,-22.937319,-43.1852596,"Fluminense Football Club, 41, Rua Álvaro Chaves, Laranjeiras, Rio de Janeiro, Região Sudeste, 22231-220, Brasil"
+BRA,Athletico-PR,39.0035645,-94.6312714,"Athletico Physical Therapy, Tomahawk Road, Prairie Village, Johnson County, Kansas, 66208, United States"
+BRA,Goias,-15.9323662,-50.1392928,"Goiás, Região Centro-Oeste, Brasil"
+BRA,Chapecoense-SC,-27.1040925,-52.6069818,"Arena Condá, Rua Clevelândia - E, Centro, Chapecó, Santa Catarina, Região Sul, 89801-561, Brasil"
+BRA,America MG,37.1983948,-95.7628341,"Montgomery County, Kansas, United States"
+BRA,Fortaleza,-3.7932167,-38.5280359,"Fortaleza, Ceará, Região Nordeste, Brasil"
+BRA,Remo,37.8159661,-76.3527244,"Remo, Northumberland County, Virginia, 22579, United States"
+IRL,Drogheda,53.7278362,-6.3479082,"Yellowbatter;Boyne Rugby Football Club, L16628, St. Peter's ED, The Borough District of Drogheda, County Louth, Leinster, Éire / Ireland"
+IRL,St. Patricks,-41.3045307,174.7908308,"Marist St. Patricks Rugby Football Club, Mount Victoria Tunnel, Hataitai, Wellington, Wellington City, Wellington, 6001, New Zealand / Aotearoa"
+IRL,UC Dublin,-34.4513918,138.3497395,"Dublin, South Australia, 5501, Australia"
+IRL,Monaghan,54.1824257,-7.2393313,"Clones Town Football Club, Clones Rural ED, Ballybay-Clones Municipal District, County Monaghan, Ulster, Éire / Ireland"
+IRL,Bohemians,52.2524063,-7.110834,"Bohemians Football Club, Poleberry, Waterford, County Waterford, Munster, Éire / Ireland"
+IRL,Bray,53.1926178,-6.1088281,"Wolfe Tone Football Club, Sugarloaf Crescent, Bray No 3 ED, The Municipal District of Bray, County Wicklow, Leinster, Éire / Ireland"
+IRL,Sligo Rovers,54.2700262,-8.4867229,"The Showgrounds - Sligo Rovers F.C., Knappagh Road, Knappagh Beg, Sligo, Sligo Municipal Borough District, County Sligo, Connacht, Éire / Ireland"
+IRL,Waterford,52.2368131,-7.1451511,"Southend United Football Club, Six Cross Roads Business Park, Ballybeg South, Waterford, County Waterford, Munster, Éire / Ireland"
+IRL,Limerick,52.6732392,-8.5332671,"UL Bohemians Rugby Football Club, Mountshannon Road, Old Garden, Ballyvarra ED, The Metropolitan District of Limerick City, Limerick, County Limerick, Munster, Éire / Ireland"
+IRL,Mervue,53.2848519,-9.0162727,"Mervue, Cathair na Gaillimhe, County Galway, Connacht, Éire / Ireland"
+IRL,Finn Harps,54.7979268,-7.7794858,"Finn Harps FC Ballybofey, Navenny Street, Stranorlar ED, Lifford-Stranorlar Municipal District, County Donegal, Ulster, Éire / Ireland"
+IRL,Wexford,52.3869516,-6.9426672,"Allianz Park, New Ross Rural ED, New Ross Municipal District, The Municipal District of New Ross, County Wexford, Leinster, Éire / Ireland"
+IRL,Cobh Ramblers,51.8501489,-8.2953978,"Cobh Ramblers FC, 16, Casement Square, Cobh Urban ED, Cobh, County Cork, Munster, P24 CX66, Éire / Ireland"
+IRL,Cabinteely,53.2589889,-6.1386917,"Cabinteely Football Club, Churchview Road, Cabinteely-Kilbogget DED 1986, Dún Laoghaire, Dún Laoghaire-Rathdown, County Dublin, Leinster, A96 PC84, Éire / Ireland"
+JPN,Gamba Osaka,34.7830497,135.5427814,"GAMBA OSAKA, 健都すこやか通り, 千里丘四丁目, 摂津市, 大阪府, 566-0011, 日本"
+JPN,Sanfrecce Hiroshima,,,
+JPN,Nagoya Grampus,,,
+JPN,Vegalta Sendai,38.3272705,140.9029201,"東北学院総合運動場 ベガルタ仙台フィールド, 百合ケ丘永和台線, 山の寺三丁目, 永和台, 泉区, 仙台市, 宮城県, 981-3104, 日本"
+JPN,Omiya Ardija,35.9157662,139.6334927,"大宮アルディージャ, 産業道路, 堀の内町三丁目, 大宮区, さいたま市, 埼玉県, 330-0803, 日本"
+JPN,Kashiwa Reysol,35.8487791,139.9754818,"柏レイソル, 柏市日立台１－２－５０, 市川柏線, 関場町, 柏市, 千葉県, 277-0025, 日本"
+JPN,Albirex Niigata,,,
+JPN,Cerezo Osaka,34.5594352,135.5004807,"セレソなかもず, 旧大阪高石線, 向陵東町三丁, 北区, 堺市, 大阪府, 590-0078, 日本"
+JPN,Urawa Reds,,,
+JPN,Yokohama F. Marinos,,,
+JPN,Vissel Kobe,34.6914397,135.1916548,"THE VISSEL, 1, 三宮町二丁目, 中央区, 神戸市, 兵庫県, 650-0021, 日本"
+JPN,Oita Trinita,,,
+JPN,Kofu,35.6652481,138.5710441,"甲府市, 山梨県, 日本"
+JPN,Tokushima,33.9196418,134.2509634,"徳島県, 日本"
+JPN,Montedio Yamagata,,,
+JPN,Avispa Fukuoka,,,
+JPN,V-Varen Nagasaki,,,
+JPN,Kyoto,35.0115754,135.7681441,"京都市, 京都府, 日本"
+JPN,Machida,35.5466803,139.4386999,"町田市, 東京都, 日本"
+MEX,Club Tijuana,32.5093374,-117.003634,"Club Campestre de Tijuana, Calle Sonora, Cubillas Sur, Tijuana, Municipio de Tijuana, Baja California, 22510, México"
+MEX,Queretaro,,,
+MEX,Monterrey,,,
+MEX,Santos Laguna,,,
+MEX,Atlas,,,
+MEX,Atlante,,,
+MEX,Monarcas,,,
+MEX,Club Leon,,,
+MEX,Tigres UANL,,,
+MEX,Puebla,,,
+MEX,UNAM Pumas,,,
+MEX,Veracruz,,,
+MEX,Leones Negros,,,
+MEX,Mazatlan FC,,,
+NOR,Molde,,,
+NOR,Stabaek,,,
+NOR,Rosenborg,,,
+NOR,Sandnes,,,
+NOR,Stromsgodset,,,
+NOR,Fredrikstad,,,
+NOR,Lillestrom,,,
+NOR,Aalesund,,,
+NOR,Start,,,
+NOR,Sarpsborg 08,,,
+NOR,Bodo/Glimt,,,
+NOR,Mjondalen,,,
+NOR,Sandefjord,,,
+NOR,HamKam,,,
+NOR,Moss,,,
+NOR,Bryne,,,
+POL,Widzew Lodz,,,
+POL,Lech Poznan,,,
+POL,Podbeskidzie,,,
+POL,Slask Wroclaw,,,
+POL,Korona Kielce,,,
+POL,Gornik Z.,,,
+POL,Cracovia,,,
+POL,Wisla Plock,,,
+POL,Sandecja Nowy S.,,,
+POL,Legnica,,,
+POL,Zaglebie Sosnowiec,,,
+POL,LKS Lodz,,,
+POL,Rakow,,,
+POL,Radomiak Radom,,,
+POL,Puszcza,,,
+POL,Motor Lublin,,,
+ROU,Pandurii,,,
+ROU,CS Turnu Severin,,,
+ROU,Poli Iasi,,,
+ROU,FC Rapid Bucuresti,,,
+ROU,Ceahlaul,,,
+ROU,Gaz Metan Medias,,,
+ROU,Astra,,,
+ROU,Vaslui,,,
+ROU,U. Cluj,,,
+ROU,Concordia,,,
+ROU,Otelul,,,
+ROU,Poli Timisoara,,,
+ROU,Navodari,,,
+ROU,Corona Brasov,,,
+ROU,Targu Mures,,,
+ROU,Daco-Getica Bucuresti,,,
+ROU,Sepsi Sf. Gheorghe,,,
+ROU,Chindia Targoviste,,,
+ROU,FC Hermannstadt,,,
+ROU,Academica Clinceni,,,
+ROU,Mioveni,,,
+ROU,FC Arges,,,
+ROU,Gloria Buzau,,,
+ROU,Unirea Slobozia,,,
+ROU,Metaloglobus Bucharest,,,
+USA,Colorado Rapids,,,
+USA,Los Angeles Galaxy,,,
+USA,San Jose Earthquakes,,,
+USA,Portland Timbers,,,
+USA,CF Montreal,,,
+USA,Sporting Kansas City,,,
+USA,Seattle Sounders,,,
+USA,New York Red Bulls,,,
+USA,New York City,,,
+USA,Minnesota United,,,
+USA,Inter Miami,,,
+USA,St. Louis City,,,
+SWZ,Schaffhausen,,,
