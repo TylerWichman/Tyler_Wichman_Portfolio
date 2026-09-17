@@ -1,0 +1,743 @@
+city,iso2,latitude,longitude,source
+Shanghai,CN,31.22222,121.45806,geonames
+Chongqing,CN,29.56026,106.55771,geonames
+Chengdu,CN,30.66667,104.06667,geonames
+Beijing,CN,39.9075,116.39723,geonames
+Shenzhen,CN,22.54554,114.0683,geonames
+Istanbul,TR,41.01384,28.94966,geonames
+Tianjin,CN,39.14222,117.17667,geonames
+Wuhan,CN,30.58333,114.26667,geonames
+São Paulo,BR,-23.5475,-46.63611,geonames
+Mexico City,MX,19.42847,-99.12766,geonames
+Hangzhou,CN,30.29365,120.16142,geonames
+Moscow,RU,55.75204,37.61781,geonames
+Tokyo,JP,35.6895,139.69171,geonames
+Shenyang,CN,41.79222,123.43278,geonames
+London,GB,51.50853,-0.12574,geonames
+Jinan,CN,36.66833,116.99722,geonames
+Dalian,CN,38.91222,121.60222,geonames
+Qingdao,CN,36.06488,120.38042,geonames
+Rio de Janeiro,BR,-22.90642,-43.18223,geonames
+Zhengzhou,CN,34.75778,113.64861,geonames
+Saint Petersburg,RU,59.93863,30.31413,geonames
+Los Angeles,US,34.05223,-118.24368,geonames
+Yokohama,JP,35.43333,139.65,geonames
+Ankara,TR,39.91987,32.85427,geonames
+Berlin,DE,52.52437,13.41053,geonames
+Madrid,ES,40.4165,-3.70256,geonames
+İzmir,TR,38.41273,27.13838,geonames
+Buenos Aires,AR,-34.61315,-58.37723,geonames
+Toronto,CA,43.70643,-79.39864,geonames
+Osaka,JP,34.69379,135.50107,geonames
+Belo Horizonte,BR,-19.92083,-43.93778,geonames
+Salvador,BR,-12.97563,-38.49096,geonames
+Chicago,US,41.85003,-87.65005,geonames
+Nagoya,JP,35.18147,136.90641,geonames
+Rome,IT,41.89193,12.51133,geonames
+Houston,US,29.76328,-95.36327,geonames
+Gaziantep,TR,37.05944,37.3825,geonames
+Paris,FR,48.85341,2.3488,geonames
+Córdoba,AR,-31.40648,-64.18853,geonames
+Hamburg,DE,53.55073,9.99302,geonames
+Curitiba,BR,-25.42778,-49.27306,geonames
+Tijuana,MX,32.5027,-117.00371,geonames
+Bucharest,RO,44.43225,26.10626,geonames
+Diyarbakır,TR,37.91363,40.21721,geonames
+Montreal,CA,45.50884,-73.58781,geonames
+Warsaw,PL,52.22977,21.01178,geonames
+Puebla,MX,19.04778,-98.20723,geonames
+Vienna,AT,48.20849,16.37208,geonames
+Barcelona,ES,41.38879,2.15899,geonames
+Fukuoka,JP,33.6,130.41667,geonames
+Philadelphia,US,39.95238,-75.16362,geonames
+Kawasaki,JP,35.52056,139.71722,geonames
+Kobe,JP,34.6913,135.183,geonames
+Stockholm,SE,59.32938,18.06871,geonames
+Ciudad Juárez,MX,31.72024,-106.46084,geonames
+Munich,DE,48.13743,11.57549,geonames
+Belém,BR,-1.45583,-48.50444,geonames
+Porto Alegre,BR,-30.03283,-51.23019,geonames
+Zapopan,MX,20.72111,-103.38742,geonames
+Kyoto,JP,35.02107,135.75385,geonames
+Konya,TR,37.87135,32.48464,geonames
+San Diego,US,32.71571,-117.16472,geonames
+Guadalajara,MX,20.67738,-103.34749,geonames
+Milan,IT,45.46427,9.18951,geonames
+Dallas,US,32.78306,-96.80667,geonames
+Saitama,JP,35.90807,139.65657,geonames
+Kazan,RU,55.78874,49.12214,geonames
+Hiroshima,JP,34.4,132.45,geonames
+Samara,RU,53.20767,50.13553,geonames
+Birmingham,GB,52.48142,-1.89983,geonames
+Copenhagen,DK,55.67594,12.56553,geonames
+Rostov-on-Don,RU,47.21997,39.70769,geonames
+Oslo,NO,59.91273,10.74609,geonames
+Voronezh,RU,51.66833,39.19204,geonames
+Dublin,IE,53.33306,-6.24889,geonames
+Brussels,BE,50.85045,4.34878,geonames
+San Jose,US,37.33939,-121.89496,geonames
+Chiba,JP,35.6,140.11667,geonames
+Austin,US,30.26715,-97.74306,geonames
+Rosario,AR,-32.94682,-60.63932,geonames
+Columbus,US,39.96118,-82.99879,geonames
+Charlotte,US,35.22709,-80.84313,geonames
+Naples,IT,40.85216,14.26811,geonames
+Krasnodar,RU,45.04534,38.98178,geonames
+Marseille,FR,43.29695,5.38107,geonames
+Rotterdam,NL,51.9225,4.47917,geonames
+Turin,IT,45.07049,7.68682,geonames
+Valencia,ES,39.47391,-0.37966,geonames
+Kraków,PL,50.06143,19.93658,geonames
+Seattle,US,47.60621,-122.33207,geonames
+Erzurum,TR,39.90861,41.27694,geonames
+Amsterdam,NL,52.37403,4.88969,geonames
+Torreón,MX,25.54389,-103.41898,geonames
+Denver,US,39.73915,-104.9847,geonames
+Okayama,JP,34.65,133.93333,geonames
+San Luis Potosí,MX,22.15234,-100.97135,geonames
+Aguascalientes,MX,21.88262,-102.2843,geonames
+Tolyatti,RU,53.5303,49.3461,geonames
+Shizuoka,JP,34.98333,138.38333,geonames
+Washington,US,38.89511,-77.03637,geonames
+Nashville,US,36.16589,-86.78444,geonames
+Guadalupe,MX,25.677,-100.259,manual
+Wroclaw,PL,51.10286,17.03006,geonames
+Athens,GR,37.98376,23.72784,geonames
+Vancouver,CA,49.24966,-123.11934,geonames
+Helsinki,FI,60.16952,24.93545,geonames
+Boston,US,42.35843,-71.05977,geonames
+Portland,US,45.52345,-122.67621,geonames
+Lodz,PL,51.77058,19.47395,geonames
+Glasgow,GB,55.86515,-4.25763,geonames
+Stuttgart,DE,48.78232,9.17702,geonames
+Gothenburg,SE,57.70716,11.96679,geonames
+Makhachkala,RU,42.97782,47.50027,geonames
+Mar del Plata,AR,-38.00042,-57.5562,geonames
+Málaga,ES,36.72016,-4.42034,geonames
+Dortmund,DE,51.51494,7.466,geonames
+Genoa,IT,44.40478,8.94439,geonames
+Manchester,GB,53.48095,-2.23743,geonames
+Orenburg,RU,51.76712,55.09883,geonames
+San Miguel de Tucumán,AR,-26.81601,-65.21051,geonames
+Bremen,DE,53.07582,8.80717,geonames
+Leeds,GB,53.79648,-1.54785,geonames
+Poznań,PL,52.40692,16.92993,geonames
+Antwerp,BE,51.22047,4.40026,geonames
+Lisbon,PT,38.72509,-9.1498,geonames
+Edinburgh,GB,55.95206,-3.19648,geonames
+Toulouse,FR,43.60426,1.44367,geonames
+Atlanta,US,33.749,-84.38798,geonames
+Leipzig,DE,51.33962,12.37129,geonames
+Liverpool,GB,53.41058,-2.97794,geonames
+Toluca,MX,19.28786,-99.65324,geonames
+Miami,US,25.77427,-80.19366,geonames
+Kansas City,US,39.122,-94.823,manual
+Kaliningrad,RU,54.70639,20.51102,geonames
+The Hague,NL,52.07667,4.29861,geonames
+Kashiwa,JP,35.86224,139.97732,geonames
+Machida,JP,35.54028,139.45083,geonames
+Santos,BR,-23.96083,-46.33361,geonames
+Zurich,CH,47.36667,8.55,geonames
+San Nicolás de los Garza,MX,25.74167,-100.30222,geonames
+Minneapolis,US,44.97997,-93.26384,geonames
+Nagasaki,JP,32.75,129.88333,geonames
+Szczecin,PL,53.42894,14.55302,geonames
+Bologna,IT,44.49381,11.33875,geonames
+Samsun,TR,41.27976,36.3361,geonames
+Santa Fe,AR,-31.64881,-60.70868,geonames
+Utrecht,NL,52.09083,5.12222,geonames
+Avellaneda,AR,-34.66018,-58.36744,geonames
+Florence,IT,43.77925,11.24626,geonames
+Alanya,TR,36.54375,31.99982,geonames
+Malmö,SE,55.60587,13.00073,geonames
+Bilbao,ES,43.26271,-2.92528,geonames
+Coventry,GB,52.40656,-1.51217,geonames
+Nice,FR,43.70313,7.26608,geonames
+Lublin,PL,51.25058,22.57009,geonames
+Orlando,US,28.53834,-81.37924,geonames
+Nottingham,GB,52.9536,-1.15047,geonames
+Thessaloniki,GR,40.64072,22.93493,geonames
+Kingston upon Hull,GB,53.7446,-0.33525,geonames
+Cincinnati,US,39.12711,-84.51439,geonames
+Graz,AT,47.06733,15.44197,geonames
+Augsburg,DE,48.37154,10.89851,geonames
+Newcastle upon Tyne,GB,54.97328,-1.61396,geonames
+Grozny,RU,43.31195,45.68895,geonames
+Białystok,PL,53.13333,23.16433,geonames
+Bergen,NO,60.39299,5.32415,geonames
+Vigo,ES,42.23282,-8.72264,geonames
+Katowice,PL,50.2597,19.02173,geonames
+Cluj-Napoca,RO,46.76667,23.6,geonames
+Chapecó,BR,-27.09639,-52.61833,geonames
+St. Louis,US,38.62727,-90.19789,geonames
+Strasbourg,FR,48.58392,7.74553,geonames
+Mito,JP,36.35,140.45,geonames
+Gelsenkirchen,DE,51.50508,7.09654,geonames
+Çorum,TR,40.54889,34.95333,geonames
+Monchengladbach,DE,51.18539,6.44172,geonames
+Tampere,FI,61.49911,23.78712,geonames
+Porto,PT,41.1485,-8.61097,geonames
+Santiago del Estero,AR,-27.80047,-64.26285,geonames
+A Coruna,ES,43.37135,-8.396,geonames
+Czestochowa,PL,50.79646,19.12409,geonames
+Groningen,NL,53.21917,6.56667,geonames
+Trabzon,TR,41.005,39.72694,geonames
+Eindhoven,NL,51.44083,5.47778,geonames
+Elche,ES,38.26218,-0.70107,geonames
+Craiova,RO,44.31667,23.8,geonames
+Rennes,FR,48.11109,-1.67431,geonames
+Radom,PL,51.40253,21.14714,geonames
+Mainz,DE,49.98185,8.28008,geonames
+Tilburg,NL,51.55551,5.0913,geonames
+Galati,RO,45.43687,28.05028,geonames
+Trondheim,NO,63.43049,10.39506,geonames
+Oulu,FI,65.01236,25.46816,geonames
+Salt Lake City,US,40.76078,-111.89105,geonames
+Lanús,AR,-34.70757,-58.39132,geonames
+Pamplona,ES,42.81687,-1.64323,geonames
+Turku,FI,60.45148,22.26869,geonames
+Linz,AT,48.30639,14.28611,geonames
+Geneva,CH,46.20222,6.14569,geonames
+Charleroi,BE,50.41136,4.44448,geonames
+Gliwice,PL,50.29761,18.67658,geonames
+Aberdeen,GB,57.14369,-2.09814,geonames
+Parma,IT,44.79935,10.32618,geonames
+İzmit,TR,40.76499,29.92928,geonames
+La Plata,AR,-34.92126,-57.95442,geonames
+Liège,BE,50.63373,5.56749,geonames
+Braga,PT,41.5514,-8.42311,geonames
+Kielce,PL,50.87033,20.62752,geonames
+Zabrze,PL,50.32492,18.78576,geonames
+Getafe,ES,40.30571,-3.73295,geonames
+Le Havre,FR,49.49346,0.10785,geonames
+San Sebastián,ES,43.31283,-1.97499,geonames
+Odense,DK,55.39594,10.38831,geonames
+Ploiești,RO,44.95,26.01667,geonames
+Amadora,PT,38.75382,-9.23083,geonames
+Ipswich,GB,52.05917,1.15545,geonames
+Basel,CH,47.55839,7.57327,geonames
+Nijmegen,NL,51.8425,5.85278,geonames
+Uppsala,SE,59.85882,17.63889,geonames
+Bragança Paulista,BR,-22.9527,-46.54418,geonames
+Santander,ES,43.46589,-3.80493,geonames
+Sunderland,GB,54.90465,-1.38222,geonames
+Arad,RO,46.18333,21.31667,geonames
+Angers,FR,47.47156,-0.55202,geonames
+Piraeus,GR,37.94203,23.64619,geonames
+Bournemouth,GB,50.72048,-1.8795,geonames
+Leverkusen,DE,51.0303,6.98432,geonames
+Enschede,NL,52.21833,6.89583,geonames
+Stavanger,NO,58.97005,5.73332,geonames
+Cagliari,IT,39.23054,9.11917,geonames
+Dundee,GB,56.46913,-2.97489,geonames
+Brest,FR,48.39029,-4.48628,geonames
+Le Mans,FR,48.0021,0.20251,geonames
+Paderborn,DE,51.71905,8.75439,geonames
+Lausanne,CH,46.516,6.63282,geonames
+Innsbruck,AT,47.26266,11.39454,geonames
+Zwolle,NL,52.5125,6.09444,geonames
+Västerås,SE,59.61617,16.55276,geonames
+Płock,PL,52.54682,19.70638,geonames
+Kuopio,FI,62.89238,27.67703,geonames
+Leeuwarden,NL,53.20271,5.80973,geonames
+Monza,IT,45.58005,9.27246,geonames
+Bern,CH,46.94809,7.44744,geonames
+Lahti,FI,60.98267,25.66151,geonames
+Bergamo,IT,45.69601,9.66721,geonames
+Rize,TR,41.02083,40.52194,geonames
+Kristiansand,NO,58.14671,7.9956,geonames
+Funchal,PT,32.66568,-16.92547,geonames
+Yuxi,CN,24.355,102.54222,geonames
+Viseu,PT,40.66165,-7.90905,geonames
+Leuven,BE,50.87959,4.70093,geonames
+Udine,IT,46.0693,13.23715,geonames
+Deventer,NL,52.255,6.16389,geonames
+Alkmaar,NL,52.63167,4.74861,geonames
+Botosani,RO,47.75,26.66667,geonames
+Lillestrøm,NO,59.95597,11.04918,geonames
+Junín,AR,-34.59391,-60.94644,geonames
+Cornellà de Llobregat,ES,41.35,2.08333,geonames
+Volos,GR,39.36923,22.94769,geonames
+Galway,IE,53.27245,-9.05095,geonames
+Como,IT,45.80819,9.0832,geonames
+Fredrikstad,NO,59.2181,10.9298,geonames
+Derry,GB,54.9981,-7.30934,geonames
+Lecce,IT,40.35481,18.17244,geonames
+Lubin,PL,51.40089,16.20149,geonames
+Mechelen,BE,51.02574,4.47762,geonames
+Paisley,GB,55.83173,-4.43254,geonames
+La Louviere,BE,50.48657,4.18785,geonames
+Kortrijk,BE,50.82803,3.26487,geonames
+Borås,SE,57.72101,12.9401,geonames
+Halmstad,SE,56.67446,12.85676,geonames
+Vaasa,FI,63.096,21.61577,geonames
+Hunedoara,RO,45.75,22.9,geonames
+Solna,SE,59.36004,18.00086,geonames
+Seinäjoki,FI,62.79446,22.82822,geonames
+Sandefjord,NO,59.13118,10.21665,geonames
+Genk,BE,50.965,5.50082,geonames
+Lugano,CH,46.01008,8.96004,geonames
+Randers,DK,56.4607,10.03639,geonames
+Villeneuve-d'Ascq,FR,50.61669,3.16664,geonames
+Horsens,DK,55.86066,9.85034,geonames
+Banfield,AR,-34.74563,-58.39365,geonames
+Troyes,FR,48.30073,4.08524,geonames
+Mirassol,BR,-20.81917,-49.52111,geonames
+Waterford,IE,52.25833,-7.11194,geonames
+Sarpsborg,NO,59.28391,11.10962,geonames
+Lorient,FR,47.74817,-3.37177,geonames
+Kalamata,GR,37.03913,22.11265,geonames
+Ålesund,NO,62.47225,6.15492,geonames
+Venice,IT,45.43713,12.33265,geonames
+Herning,DK,56.13615,8.97662,geonames
+Sfântu Gheorghe,RO,45.86667,25.78333,geonames
+Silkeborg,DK,56.1697,9.54508,geonames
+Sittard,NL,50.99833,5.86944,geonames
+Perth,GB,56.39522,-3.43139,geonames
+Kilmarnock,GB,55.61171,-4.49581,geonames
+Agrinio,GR,38.62139,21.40778,geonames
+Beveren,BE,51.21187,4.25633,geonames
+Frosinone,IT,41.63976,13.34109,geonames
+Drogheda,IE,53.71889,-6.34778,geonames
+Thun,CH,46.75118,7.62166,geonames
+Dundalk,IE,54.0,-6.41667,geonames
+Heerenveen,NL,52.95929,5.91854,geonames
+Tromsø,NO,69.6489,18.95508,geonames
+Auxerre,FR,47.7996,3.57033,geonames
+Viborg,DK,56.45319,9.40201,geonames
+Guimarães,PT,41.44443,-8.29619,geonames
+Kalmar,SE,56.66157,16.36163,geonames
+Lens,FR,50.43302,2.82791,geonames
+Sint-Truiden,BE,50.81679,5.18647,geonames
+Sinsheim,DE,49.2529,8.87867,geonames
+Waregem,BE,50.88898,3.42756,geonames
+Falkirk,GB,56.0021,-3.78535,geonames
+Bodø,NO,67.28267,14.37513,geonames
+Monaco,MC,43.73718,7.42145,geonames
+Motherwell,GB,55.78924,-3.99187,geonames
+Lommel,BE,51.23074,5.31349,geonames
+Voluntari,RO,44.49002,26.17338,geonames
+Kashima,JP,35.966,140.645,manual
+Hamar,NO,60.7945,11.06798,geonames
+Vila do Conde,PT,41.35326,-8.74516,geonames
+Tripoli,GR,37.50959,22.37883,geonames
+Victoria,AR,-34.455,-58.56,manual
+Wolfsberg,AT,46.84056,14.84417,geonames
+Décines-Charpieu,FR,45.76873,4.95883,geonames
+Kristiansund,NO,63.11045,7.72795,geonames
+Estoril,PT,38.70571,-9.39773,geonames
+Lustenau,AT,47.42642,9.65851,geonames
+Westerlo,BE,51.09049,4.91544,geonames
+Molde,NO,62.73752,7.15912,geonames
+Haderslev,DK,55.24943,9.48771,geonames
+Livadeia,GR,38.43616,22.87665,geonames
+Arouca,PT,40.93057,-8.24488,geonames
+Sligo,IE,54.26969,-8.46943,geonames
+Farum,DK,55.80858,12.36066,geonames
+Ponta Delgada,PT,37.73952,-25.66874,geonames
+Jakobstad,FI,63.67486,22.70256,geonames
+Barcelos,PT,41.53174,-8.61843,geonames
+Spiesen-Elversberg,DE,49.31667,7.13333,geonames
+Ovidiu,RO,44.258,28.56083,geonames
+Ried im Innkreis,AT,48.21123,13.48855,geonames
+Kongens Lyngby,DK,55.77044,12.50378,geonames
+Vila Nova de Famalicão,PT,41.40797,-8.51978,geonames
+Degerfors,SE,59.23797,14.43077,geonames
+Altach,AT,47.35438,9.65207,geonames
+Vaduz,LI,47.14151,9.52154,geonames
+Hartberg,AT,47.28333,15.96667,geonames
+Querétaro,MX,20.588,-100.389,manual
+Hällevik,SE,56.01667,14.7,geonames
+Pachuca,MX,20.101,-98.759,manual
+New York,US,40.71427,-74.00597,geonames
+Leon,MX,21.12183,-101.68253,geonames
+Cologne,DE,50.93333,6.95,geonames
+Seville,ES,37.38283,-5.97317,geonames
+Frankfurt,DE,50.11552,8.68417,geonames
+Aarhus,DK,56.15674,10.21076,geonames
+Ghent,BE,51.05,3.71667,geonames
+Vitoria-Gasteiz,ES,42.84998,-2.67268,geonames
+Freiburg im Breisgau,DE,47.9959,7.85222,geonames
+Reggio Emilia,IT,44.69825,10.63125,geonames
+Heraklion,GR,35.32787,25.14341,geonames
+Bruges,BE,51.20892,3.22424,geonames
+Lucerne,CH,47.05048,8.30635,geonames
+St. Gallen,CH,47.42391,9.37477,geonames
+Velsen,NL,52.46,4.65,geonames
+Sion,CH,46.22739,7.35559,geonames
+Miercurea Ciuc,RO,46.35,25.8,geonames
+Brøndby,DK,55.6455,12.41008,geonames
+Florencio Varela,AR,-34.817,-58.283,manual
+Brighton and Hove,GB,50.827,-0.152,manual
+Villarreal,ES,39.938,-0.101,manual
+Alverca do Ribatejo,PT,38.899,-9.039,manual
+Florida Este,AR,-34.535,-58.48,manual
+Wals-Siezenheim,AT,47.786,12.979,manual
+Mariehamn,FI,60.097,19.935,manual
+Guangzhou,CN,23.11667,113.25,geonames
+Harbin,CN,45.75,126.65,geonames
+Nanjing,CN,32.06167,118.77778,geonames
+Shijiazhuang,CN,38.04139,114.47861,geonames
+Changchun,CN,43.88,125.32278,geonames
+Guiyang,CN,26.58333,106.71667,geonames
+Bursa,TR,40.19559,29.06013,geonames
+Fortaleza,BR,-3.71722,-38.54306,geonames
+Nantong,CN,32.03028,120.87472,geonames
+Sapporo,JP,43.06667,141.35,geonames
+Adana,TR,36.98615,35.32531,geonames
+Recife,BR,-8.05389,-34.88111,geonames
+Goiânia,BR,-16.67861,-49.25389,geonames
+Yekaterinburg,RU,56.85733,60.61529,geonames
+Kayseri,TR,38.73222,35.48528,geonames
+Antalya,TR,36.90812,30.69556,geonames
+Ufa,RU,54.74306,55.96779,geonames
+Sendai,JP,38.26667,140.86667,geonames
+Krasnoyarsk,RU,56.03742,92.93136,geonames
+Maceió,BR,-9.66583,-35.73528,geonames
+Campinas,BR,-22.90556,-47.06083,geonames
+Volgograd,RU,48.71378,44.4976,geonames
+Meizhou,CN,24.28859,116.11768,geonames
+Perm,RU,58.01046,56.25017,geonames
+Eskişehir,TR,39.77667,30.52056,geonames
+Langfang,CN,39.52079,116.71471,geonames
+Culiacán,MX,24.80209,-107.39421,geonames
+Niigata,JP,37.92259,139.04125,geonames
+Malatya,TR,38.35018,38.31667,geonames
+Morelia,MX,19.70078,-101.18443,geonames
+Kumamoto,JP,32.80589,130.69181,geonames
+Zaragoza,ES,41.65606,-0.87734,geonames
+Joinville,BR,-26.30444,-48.84556,geonames
+Palermo,IT,38.1166,13.3636,geonames
+Düsseldorf,DE,51.22319,6.77927,geonames
+Khabarovsk,RU,48.46204,135.0971,geonames
+Cuiabá,BR,-15.59611,-56.09667,geonames
+Tomsk,RU,56.50049,84.98216,geonames
+Sheffield,GB,53.38297,-1.4659,geonames
+Mersin,TR,36.81196,34.63886,geonames
+Astrakhan,RU,46.34968,48.04076,geonames
+Cangzhou,CN,38.31124,116.85334,geonames
+Nuremberg,DE,49.45421,11.07752,geonames
+Hannover,DE,52.37052,9.73322,geonames
+Florianópolis,BR,-27.59667,-48.54917,geonames
+Duisburg,DE,51.43247,6.76516,geonames
+Gdańsk,PL,54.35227,18.64912,geonames
+Tula,RU,54.19609,37.61822,geonames
+Caxias do Sul,BR,-29.16806,-51.17944,geonames
+Oita,JP,33.23333,131.6,geonames
+Murcia,ES,37.98704,-1.13004,geonames
+Elazığ,TR,38.67431,39.22321,geonames
+Palma,ES,39.56939,2.65024,geonames
+Veracruz,MX,19.18095,-96.1429,geonames
+Antakya,TR,36.20655,36.15722,geonames
+Bochum,DE,51.48165,7.21648,geonames
+Las Palmas de Gran Canaria,ES,28.10178,-15.41573,geonames
+Mazatlán,MX,23.22163,-106.41885,geonames
+Iași,RO,47.16667,27.6,geonames
+Cardiff,GB,51.48,-3.18,geonames
+Leicester,GB,52.6386,-1.13169,geonames
+Bradford,GB,53.79391,-1.75206,geonames
+Alicante,ES,38.34517,-0.48149,geonames
+Bielefeld,DE,52.03333,8.53333,geonames
+Bydgoszcz,PL,53.1235,18.00762,geonames
+Sochi,RU,43.59699,39.72477,geonames
+Yanji,CN,42.88825,129.50241,geonames
+Córdoba,ES,37.89155,-4.77275,geonames
+Nantes,FR,47.21725,-1.55336,geonames
+Espoo,FI,60.2052,24.6522,geonames
+Saransk,RU,54.18485,45.17166,geonames
+Reading,GB,51.45625,-0.97113,geonames
+Bari,IT,41.12066,16.86982,geonames
+Denizli,TR,37.77417,29.0875,geonames
+Catania,IT,37.49223,15.07041,geonames
+Vladikavkaz,RU,43.04101,44.66986,geonames
+Posadas,AR,-27.39184,-55.92379,geonames
+Valladolid,ES,41.65541,-4.72353,geonames
+Swansea,GB,51.62079,-3.94323,geonames
+Bahía Blanca,AR,-38.7176,-62.26545,geonames
+Tambov,RU,52.73632,41.44102,geonames
+Adapazarı,TR,40.78056,30.40333,geonames
+Karlsruhe,DE,49.00937,8.40444,geonames
+Gijón,ES,43.53573,-5.66152,geonames
+Derby,GB,52.92277,-1.47663,geonames
+Southampton,GB,50.90395,-1.40428,geonames
+Tokushima,JP,34.06667,134.56667,geonames
+Bordeaux,FR,44.84124,-0.58046,geonames
+Aachen,DE,50.77664,6.08342,geonames
+Sivas,TR,39.74833,37.01611,geonames
+Wolverhampton,GB,52.58547,-2.12296,geonames
+Quilmes,AR,-34.72065,-58.25454,geonames
+Hiratsuka,JP,35.32785,139.33735,geonames
+Stoke-on-Trent,GB,53.00415,-2.18538,geonames
+Verona,IT,45.43854,10.9938,geonames
+Gdynia,PL,54.51889,18.53188,geonames
+Brașov,RO,45.64861,25.60613,geonames
+Vantaa,FI,60.29414,25.04099,geonames
+Kiel,DE,54.32133,10.13489,geonames
+Timișoara,RO,45.75372,21.22571,geonames
+Montpellier,FR,43.61093,3.87635,geonames
+Paraná,AR,-31.73271,-60.52897,geonames
+Braunschweig,DE,52.26594,10.52673,geonames
+Manisa,TR,38.61202,27.42647,geonames
+Matsumoto,JP,36.23333,137.96667,geonames
+Khimki,RU,55.9001,37.42848,geonames
+Balıkesir,TR,39.64917,27.88611,geonames
+Granada,ES,37.18817,-3.60667,geonames
+Ordu,TR,40.97782,37.89047,geonames
+Criciúma,BR,-28.6775,-49.36972,geonames
+Sosnowiec,PL,50.28682,19.10385,geonames
+Luton,GB,51.87967,-0.41748,geonames
+Cork,IE,51.89797,-8.47061,geonames
+Oviedo,ES,43.36029,-5.84476,geonames
+Messina,IT,38.19394,15.55256,geonames
+Jerez de la Frontera,ES,36.68645,-6.13606,geonames
+Târgu Mureș,RO,46.54245,24.55747,geonames
+Santa Cruz de Tenerife,ES,28.46824,-16.25462,geonames
+Portsmouth,GB,50.79899,-1.09125,geonames
+Brescia,IT,45.53558,10.21472,geonames
+Rostock,DE,54.0887,12.14049,geonames
+Almería,ES,36.83814,-2.45974,geonames
+Reims,FR,49.26526,4.02853,geonames
+Kofu,JP,35.66667,138.56667,geonames
+Leganés,ES,40.32718,-3.7635,geonames
+Modena,IT,44.64783,10.92539,geonames
+Breda,NL,51.58656,4.77596,geonames
+Reggio Calabria,IT,38.11047,15.66129,geonames
+Saint-Étienne,FR,45.43389,4.39,geonames
+Wigan,GB,53.54296,-2.63706,geonames
+Albacete,ES,38.99424,-1.85643,geonames
+Darmstadt,DE,49.87167,8.65027,geonames
+Iwata,JP,34.7,137.85,geonames
+Arnhem,NL,51.98,5.91111,geonames
+'s-Hertogenbosch,NL,51.69917,5.30417,geonames
+Dijon,FR,47.31344,5.01391,geonames
+Grenoble,FR,45.17869,5.71479,geonames
+Livorno,IT,43.54427,10.32615,geonames
+Río Cuarto,AR,-33.13044,-64.35272,geonames
+Örebro,SE,59.27412,15.2066,geonames
+Burnley,GB,53.8,-2.23333,geonames
+Huddersfield,GB,53.64904,-1.78416,geonames
+Jyväskylä,FI,62.24147,25.72088,geonames
+Nîmes,FR,43.83665,4.35788,geonames
+Clermont-Ferrand,FR,45.77969,3.08682,geonames
+Blackburn,GB,53.75,-2.48333,geonames
+Blackpool,GB,53.81667,-3.05,geonames
+Huelva,ES,37.26638,-6.94004,geonames
+Norwich,GB,52.62783,1.29834,geonames
+Amiens,FR,49.9,2.3,geonames
+Aalborg,DK,57.048,9.9187,geonames
+Middlesbrough,GB,54.57623,-1.23483,geonames
+Tarragona,ES,41.11905,1.24544,geonames
+Bolton,GB,53.58333,-2.43333,geonames
+Pitești,RO,44.85,24.86667,geonames
+Coimbra,PT,40.20686,-8.41996,geonames
+Sibiu,RO,45.8,24.15,geonames
+Fürth,DE,49.47593,10.98856,geonames
+Ferrara,IT,44.83804,11.62057,geonames
+Leiria,PT,39.74362,-8.80705,geonames
+Salerno,IT,40.67545,14.79328,geonames
+Watford,GB,51.65531,-0.39602,geonames
+Giresun,TR,40.91698,38.38741,geonames
+Karabük,TR,41.20488,32.62768,geonames
+Metz,FR,49.11911,6.17269,geonames
+Wolfsburg,DE,52.4236,10.77597,geonames
+Ingolstadt,DE,48.76508,11.42372,geonames
+Perugia,IT,43.1122,12.38878,geonames
+Pescara,IT,42.4584,14.20283,geonames
+Dordrecht,NL,51.81,4.67361,geonames
+Setúbal,PT,38.5244,-8.8882,geonames
+Cádiz,ES,36.52672,-6.2891,geonames
+Mendoza,AR,-32.88946,-68.84582,geonames
+Siirt,TR,37.9293,41.94134,geonames
+Chorzów,PL,50.30582,18.9742,geonames
+Jönköping,SE,57.78145,14.15618,geonames
+Vicenza,IT,45.54672,11.5475,geonames
+Winterthur,CH,47.50564,8.72413,geonames
+Caen,FR,49.18585,-0.35912,geonames
+Pisa,IT,43.70853,10.4036,geonames
+San Juan,AR,-31.53726,-68.52568,geonames
+Legnica,PL,51.21006,16.1619,geonames
+Drammen,NO,59.74389,10.20449,geonames
+Nancy,FR,48.68439,6.18496,geonames
+Helsingborg,SE,56.04673,12.69437,geonames
+Piacenza,IT,45.05242,9.69342,geonames
+Buzău,RO,45.15,26.83333,geonames
+West Bromwich,GB,52.51868,-1.9945,geonames
+Piatra Neamț,RO,46.91667,26.33333,geonames
+Limerick,IE,52.66472,-8.62306,geonames
+Venlo,NL,51.37,6.16806,geonames
+Novara,IT,45.44694,8.62118,geonames
+Girona,ES,41.98311,2.82493,geonames
+Kaiserslautern,DE,49.443,7.77161,geonames
+Cesena,IT,44.1391,12.24315,geonames
+Mons,BE,50.45413,3.95229,geonames
+Norrköping,SE,58.59419,16.1826,geonames
+La Spezia,IT,44.103,9.82375,geonames
+Ancona,IT,43.60717,13.5103,geonames
+Avignon,FR,43.94834,4.80892,geonames
+Rafaela,AR,-31.25285,-61.49078,geonames
+Yozgat,TR,39.82,34.80444,geonames
+Treviso,IT,45.66673,12.2416,geonames
+Sandnes,NO,58.85244,5.73521,geonames
+Cottbus,DE,51.75769,14.32888,geonames
+Akhisar,TR,38.91852,27.84006,geonames
+Nowy Sącz,PL,49.62177,20.69705,geonames
+Aveiro,PT,40.64575,-8.64643,geonames
+Drobeta-Turnu Severin,RO,44.62693,22.65288,geonames
+Bistrița,RO,47.13316,24.50011,geonames
+Kouvola,FI,60.86667,26.7,geonames
+Roosendaal,NL,51.53083,4.46528,geonames
+Aalst,BE,50.93604,4.0355,geonames
+Gävle,SE,60.67452,17.14174,geonames
+Tosu,JP,33.36667,130.51667,geonames
+Târgu Jiu,RO,45.05,23.28333,geonames
+Almelo,NL,52.35667,6.6625,geonames
+Esbjerg,DK,55.47028,8.45187,geonames
+Växjö,SE,56.87767,14.80906,geonames
+Cremona,IT,45.13325,10.02129,geonames
+Carpi,IT,44.78237,10.8777,geonames
+Södertälje,SE,59.19554,17.62525,geonames
+Faro,PT,37.01869,-7.92716,geonames
+Ostend,BE,51.21551,2.927,geonames
+Eskilstuna,SE,59.36661,16.5077,geonames
+Târgoviște,RO,44.92543,25.4567,geonames
+Rovaniemi,FI,66.49897,25.68867,geonames
+Ioannina,GR,39.66341,20.85187,geonames
+Tendo,JP,38.35361,140.36972,geonames
+Crotone,IT,39.08077,17.12764,geonames
+Vaslui,RO,46.63333,27.73333,geonames
+Bełchatów,PL,51.36883,19.35671,geonames
+Seraing,BE,50.58362,5.50115,geonames
+Vejle,DK,55.70927,9.5357,geonames
+Mielec,PL,50.28709,21.4239,geonames
+Benevento,IT,41.1307,14.77816,geonames
+Serres,GR,41.08499,23.54757,geonames
+Sundsvall,SE,62.39129,17.3063,geonames
+Emmen,NL,52.77917,6.90694,geonames
+Livingston,GB,55.90288,-3.52261,geonames
+Roeselare,BE,50.94653,3.12269,geonames
+Dunfermline,GB,56.07156,-3.45887,geonames
+Giurgiu,RO,43.88664,25.9627,geonames
+Hamilton,GB,55.76667,-4.03333,geonames
+Ajaccio,FR,41.91886,8.73812,geonames
+Kavala,GR,40.93959,24.40687,geonames
+Huesca,ES,42.13615,-0.4087,geonames
+Chania,GR,35.51124,24.02921,geonames
+Siena,IT,43.31822,11.33064,geonames
+Hvidovre,DK,55.64297,12.47708,geonames
+Mediaș,RO,46.16667,24.35,geonames
+Mouscron,BE,50.74497,3.20639,geonames
+Lamia,GR,38.89947,22.4335,geonames
+Skien,NO,59.20962,9.60897,geonames
+Kotka,FI,60.4664,26.94582,geonames
+Heidenheim an der Brenz,DE,48.67798,10.15162,geonames
+Doetinchem,NL,51.965,6.28889,geonames
+Östersund,SE,63.1792,14.63566,geonames
+Kerkrade,NL,50.86583,6.0625,geonames
+Moss,NO,59.43403,10.65771,geonames
+Annecy,FR,45.90878,6.12565,geonames
+Kokkola,FI,63.83847,23.13066,geonames
+Xanthi,GR,41.13488,24.888,geonames
+Inverness,GB,57.47908,-4.22398,geonames
+Boulogne-sur-Mer,FR,50.72485,1.61373,geonames
+Figueira da Foz,PT,40.15085,-8.86179,geonames
+Komotini,GR,41.11758,25.40587,geonames
+Waalwijk,NL,51.6825,5.07083,geonames
+Akçaabat,TR,41.02121,39.57146,geonames
+Drama,GR,41.15283,24.1473,geonames
+Valenciennes,FR,50.35909,3.52506,geonames
+Wiener Neustadt,AT,47.80485,16.23196,geonames
+Istres,FR,43.51345,4.98747,geonames
+Borlänge,SE,60.4858,15.43714,geonames
+Ascoli Piceno,IT,42.85351,13.57395,geonames
+Slobozia,RO,44.5647,27.3633,geonames
+Lokeren,BE,51.10364,3.99339,geonames
+Bastia,FR,42.70219,9.45123,geonames
+Fredericia,DK,55.56568,9.75257,geonames
+Haugesund,NO,59.41378,5.268,geonames
+Bodrum,TR,37.03833,27.42917,geonames
+Soria,ES,41.76401,-2.46883,geonames
+Portimão,PT,37.13856,-8.53775,geonames
+Schaffhausen,CH,47.69732,8.63493,geonames
+Helsingør,DK,56.03606,12.6136,geonames
+Empoli,IT,43.71795,10.94758,geonames
+Varberg,SE,57.10557,12.25078,geonames
+Bray,IE,53.20278,-6.09833,geonames
+Neuchâtel,CH,46.99179,6.931,geonames
+Lier,BE,51.13128,4.57041,geonames
+Năvodari,RO,44.31667,28.6,geonames
+Landskrona,SE,55.8708,12.83016,geonames
+Of,TR,40.94055,40.25918,geonames
+Slagelse,DK,55.40276,11.35459,geonames
+Yverdon-les-Bains,CH,46.77852,6.64115,geonames
+Trelleborg,SE,55.37514,13.15691,geonames
+Olhão,PT,37.0286,-7.8411,geonames
+Mioveni,RO,44.95905,24.94198,geonames
+Póvoa de Varzim,PT,41.38344,-8.76364,geonames
+Montbéliard,FR,47.50957,6.79823,geonames
+Matosinhos,PT,41.18207,-8.68908,geonames
+Eibar,ES,43.18493,-2.47158,geonames
+Harelbeke,BE,50.85343,3.30935,geonames
+Hjørring,DK,57.46417,9.98229,geonames
+Falkenberg,SE,56.90552,12.49118,geonames
+Grimstad,NO,58.3405,8.59343,geonames
+Athlone,IE,53.42278,-7.93722,geonames
+Pyrgos,GR,37.67513,21.44102,geonames
+Volendam,NL,52.495,5.07083,geonames
+Sankt Pölten,AT,48.20762,15.63725,geonames
+Łęczna,PL,51.30121,22.88135,geonames
+Wexford,IE,52.33417,-6.4575,geonames
+Aarau,CH,47.39254,8.04422,geonames
+Valkeakoski,FI,61.26421,24.03122,geonames
+Unterhaching,DE,48.06598,11.61564,geonames
+Trofa,PT,41.33729,-8.5596,geonames
+Sedan,FR,49.70187,4.94028,geonames
+Kemi,FI,65.73641,24.56371,geonames
+Värnamo,SE,57.18604,14.04001,geonames
+Eupen,BE,50.6279,6.03647,geonames
+Tubize,BE,50.69059,4.2009,geonames
+Chaves,PT,41.74019,-7.46879,geonames
+Denderleeuw,BE,50.88506,4.07601,geonames
+Ekenäs,FI,59.97359,23.43389,geonames
+Cobh,IE,51.85046,-8.2948,geonames
+Hønefoss,NO,60.16804,10.25647,geonames
+Bryne,NO,58.73536,5.64766,geonames
+Jessheim,NO,60.14151,11.17515,geonames
+Kongsvinger,NO,60.19049,11.99772,geonames
+Hobro,DK,56.64306,9.79029,geonames
+Longford,IE,53.72536,-7.79823,geonames
+Niepołomice,PL,50.04066,20.22257,geonames
+Guingamp,FR,48.56259,-3.15289,geonames
+Maria Enzersdorf,AT,48.1,16.28333,geonames
+Tondela,PT,40.51682,-8.08087,geonames
+Campo Maior,PT,39.01774,-7.06497,geonames
+Chiajna,RO,44.46,25.97333,geonames
+Penafiel,PT,41.20835,-8.28285,geonames
+Monaghan,IE,54.24589,-6.97098,geonames
+Kalloní,GR,39.23318,26.20724,geonames
+Mattersburg,AT,47.73333,16.4,geonames
+Åtvidaberg,SE,58.20152,15.9977,geonames
+Paços de Ferreira,PT,41.27657,-8.37617,geonames
+Călărași,RO,44.203,27.331,manual
+Dingwall,GB,57.59531,-4.42721,geonames
+Clinceni,RO,44.37333,25.95472,geonames
+Ballybofey,IE,54.8,-7.78333,geonames
+Vizela,PT,41.38242,-8.24887,geonames
+Sogndal,NO,61.22908,7.09674,geonames
+Grödig,AT,47.73833,13.0373,geonames
+Ljungskile,SE,58.22452,11.92014,geonames
+Nieciecza,PL,50.15249,20.84948,geonames
+Mjøndalen,NO,59.75075,10.02477,geonames
+Nizhny Novgorod,RU,56.32867,44.00205,geonames
+Tuxtla Gutiérrez,MX,16.75357,-93.11578,geonames
+Bielsko-Biała,PL,49.82245,19.04686,geonames
+Almere,NL,52.37025,5.21413,geonames
+Patras,GR,38.2462,21.73508,geonames
+Larissa,GR,39.62847,22.42112,geonames
+Klagenfurt,AT,46.62472,14.30528,geonames
+Kérkyra,GR,39.62441,19.92016,geonames
+Santa Maria da Feira,PT,40.92535,-8.54277,geonames
+Veria,GR,40.524,22.202,manual
+Temperley,AR,-34.775,-58.397,manual
+Heusden-Zolder,BE,51.031,5.316,manual
+Bekkestua,NO,59.918,10.586,manual
+Vila das Aves,PT,41.37,-8.41,manual

@@ -3,3 +3,4 @@ data/
 *.duckdb.wal
 .ipynb_checkpoints/
 __pycache__/
+cities500.*

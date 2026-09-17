@@ -1,0 +1,28 @@
+league_id,league_name,country,data_source
+ARG,Primera Division,Argentina,extra
+AUT,Bundesliga,Austria,extra
+B1,Jupiler Pro League,Belgium,main
+BRA,Serie A,Brazil,extra
+CHN,Super League,China,extra
+D1,Bundesliga,Germany,main
+DNK,Superliga,Denmark,extra
+E0,Premier League,England,main
+F1,Ligue 1,France,main
+FIN,Veikkausliiga,Finland,extra
+G1,Super League,Greece,main
+I1,Serie A,Italy,main
+IRL,Premier Division,Ireland,extra
+JPN,J1 League,Japan,extra
+MEX,Liga MX,Mexico,extra
+N1,Eredivisie,Netherlands,main
+NOR,Eliteserien,Norway,extra
+P1,Primeira Liga,Portugal,main
+POL,Ekstraklasa,Poland,extra
+ROU,Liga I,Romania,extra
+RUS,Premier League,Russia,extra
+SC0,Scottish Premiership,Scotland,main
+SP1,La Liga,Spain,main
+SWE,Allsvenskan,Sweden,extra
+SWZ,Super League,Switzerland,extra
+T1,Super Lig,Turkey,main
+USA,MLS,USA,extra
